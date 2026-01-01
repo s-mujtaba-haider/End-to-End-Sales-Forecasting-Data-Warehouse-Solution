@@ -1,0 +1,2 @@
+# End-to-End-Sales-Forecasting-Data-Warehouse-Solution
+An end-to-end analytics solution that cleans raw sales data using Python, stores it in a SQL Server data warehouse, and forecasts future sales using machine learning. The project includes automated ETL with SSIS, predictive modeling with evaluation metrics, and interactive Power BI dashboards for actual vs. forecasted sales and stock planning.
