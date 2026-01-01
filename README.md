@@ -52,5 +52,3 @@ The project is designed to be **reproducible**, **scalable**, and **easy to hand
    - Refresh configured for updated reporting
 
 ---
-
-## Folder Structure (Recommended)
