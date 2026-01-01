@@ -1,0 +1,1501 @@
+Date_Vente,SKU,Collection,Nom_Produit,Couleur,Taille,Quantité_Vendue,Prix_Unitaire,Remise,Prix_Final,Canal,Paiement,Pays,date_vente,pays_commande
+2024-01-10,SP-129,Sport-Plage,Short cache awra,Noir,S,1,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2024-05-10,Belgique
+2025-04-16,CHE-90,Chechias,Chechia,Gris clair,M,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-11-10,Belgique
+2024-10-05,QAM-69,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-05-02,France
+2024-09-03,QAM-56,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-04-12,Pays-Bas
+2024-05-06,LIN-113,Ensembles En Lin,Ensemble en Lin,Noir,S,1,69.99,0,69.99,E-commerce,Mastercard,Belgique,2022-11-27,Belgique
+2025-06-16,CHE-108,Chechias,Chechia,Gris foncé,XL,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2022-03-29,France
+2025-06-13,QAM-56,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-05-21,Belgique
+2025-05-18,QAM-4,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-05-11,Belgique
+2023-11-07,QAM-58,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-02-09,Pays-Bas
+2024-07-29,QAM-9,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-12-10,Pays-Bas
+2024-11-12,QAM-69,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-03-16,Belgique
+2023-01-25,QAM-44,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-01-21,Pays-Bas
+2023-11-10,CHE-105,Chechias,Chechia,Gris foncé,S,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2024-08-13,France
+2023-09-15,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-10-04,Luxembourg
+2023-09-11,QAM-28,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-04-05,France
+2025-05-09,QAM-6,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-01-22,France
+2023-03-08,LIN-128,Ensembles En Lin,Ensemble en Lin,Beige,XL,1,69.99,0,69.99,E-commerce,Mastercard,Belgique,2022-09-10,France
+2023-11-17,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-01-18,France
+2024-02-11,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-05-06,Belgique
+2024-11-03,QAM-70,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-04-20,Belgique
+2023-04-17,QAM-5,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-12-18,Belgique
+2023-11-15,QAM-9,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-05-26,France
+2023-02-20,QAM-2,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-12-01,Belgique
+2024-12-23,QAM-28,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-09-02,France
+2023-11-17,QAM-37,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-07-09,Pays-Bas
+2023-04-27,SP-135,Sport-Plage,T-shirt technique,Noir,L,1,24.99,0,24.99,E-commerce,Google Pay,Belgique,2024-08-15,Belgique
+2023-11-06,CHE-99,Chechias,Chechia,Bleu foncé,L,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-11-18,France
+2023-06-03,QAM-42,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-08-15,Belgique
+2025-04-15,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-07-17,Luxembourg
+2023-10-11,QAM-43,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-04-11,Belgique
+2023-06-23,QAM-27,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-10-09,France
+2023-12-08,QAM-74,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-01-21,Luxembourg
+2024-10-22,CHE-105,Chechias,Chechia,Gris foncé,S,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-04-20,Pays-Bas
+2024-05-14,CHE-91,Chechias,Chechia,Gris clair,L,1,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-06-16,France
+2023-10-11,LIN-128,Ensembles En Lin,Ensemble en Lin,Beige,XL,3,69.99,0,69.99,E-commerce,Visa,Belgique,2023-01-23,France
+2024-10-26,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-08-24,France
+2023-06-14,QAM-43,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-11-12,Luxembourg
+2024-10-28,SP-136,Sport-Plage,T-shirt technique,Noir,XL,1,24.99,0,24.99,E-commerce,Mastercard,Belgique,2022-01-14,France
+2024-10-02,QAM-80,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-08-30,Belgique
+2024-12-03,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-02-16,Pays-Bas
+2024-07-06,QAM-74,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-07-19,France
+2023-08-08,LIN-126,Ensembles En Lin,Ensemble en Lin,Beige,M,3,69.99,0,69.99,E-commerce,Mastercard,Belgique,2024-06-16,France
+2024-09-18,QAM-66,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-04-02,Belgique
+2023-04-30,LIN-117,Ensembles En Lin,Ensemble en Lin,Bleu,S,1,69.99,0,69.99,E-commerce,Mastercard,Belgique,2024-08-13,France
+2024-04-17,QAM-17,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-05-24,Belgique
+2025-03-01,CHE-102,Chechias,Chechia,Chocolat,M,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-02-15,France
+2023-08-18,QAM-28,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-02-04,Belgique
+2025-03-24,QAM-72,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-07-25,France
+2023-01-10,QAM-37,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-10-22,Pays-Bas
+2023-11-20,QAM-7,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-10-18,Belgique
+2023-09-24,CHE-101,Chechias,Chechia,Chocolat,S,1,9.49,0,9.49,E-commerce,Google Pay,Belgique,2023-07-20,Pays-Bas
+2023-09-26,QAM-9,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2023-12-04,Belgique
+2023-06-25,QAM-27,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-02-06,Luxembourg
+2024-03-09,QAM-58,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-12-31,France
+2023-03-16,CHE-112,Chechias,Chechia,Gris métallisé,XL,1,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-06-11,France
+2024-08-15,QAM-4,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-07-21,France
+2024-03-03,CHE-102,Chechias,Chechia,Chocolat,M,2,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-09-22,Luxembourg
+2023-02-12,QAM-84,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-09-27,Belgique
+2024-03-01,QAM-68,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-03-26,Belgique
+2024-08-30,CHE-107,Chechias,Chechia,Gris foncé,L,2,9.49,0,9.49,E-commerce,Visa,Belgique,2023-04-01,France
+2024-11-03,QAM-42,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-10-13,Luxembourg
+2024-09-21,QAM-62,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-10-23,France
+2025-06-09,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-12-21,France
+2023-09-28,CHE-90,Chechias,Chechia,Gris clair,M,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-12-04,Belgique
+2023-06-15,QAM-43,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-05-28,Luxembourg
+2024-01-20,CHE-96,Chechias,Chechia,Noir,XL,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-12-12,Belgique
+2024-04-24,SP-131,Sport-Plage,Short cache awra,Noir,L,2,44.99,0,44.99,E-commerce,Mastercard,Belgique,2024-03-02,France
+2024-09-21,QAM-70,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-08-05,Belgique
+2023-03-04,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-02-03,Belgique
+2024-05-09,QAM-27,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-07-07,Belgique
+2024-12-24,CHE-106,Chechias,Chechia,Gris foncé,M,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2023-01-15,Belgique
+2024-01-31,QAM-73,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2023-05-08,France
+2023-09-05,CHE-99,Chechias,Chechia,Bleu foncé,L,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-11-30,Belgique
+2023-11-07,QAM-34,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-01-15,Belgique
+2023-01-31,SP-136,Sport-Plage,T-shirt technique,Noir,XL,1,24.99,0,24.99,E-commerce,Visa,Belgique,2022-03-06,Belgique
+2024-05-09,SP-129,Sport-Plage,Short cache awra,Noir,S,3,44.99,0,44.99,E-commerce,Visa,Belgique,2023-06-05,Belgique
+2023-10-28,CHE-103,Chechias,Chechia,Chocolat,L,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-10-10,Belgique
+2023-11-25,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-12-22,Belgique
+2023-04-22,LIN-128,Ensembles En Lin,Ensemble en Lin,Beige,XL,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-08-16,France
+2025-04-02,QAM-73,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-01-27,France
+2024-08-11,QAM-36,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-02-23,France
+2023-04-09,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-10-16,France
+2024-06-04,QAM-63,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-01-14,Belgique
+2024-12-17,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-08-19,Luxembourg
+2023-10-06,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-10-14,France
+2024-07-09,LIN-113,Ensembles En Lin,Ensemble en Lin,Noir,S,2,69.99,0,69.99,E-commerce,Mastercard,Belgique,2022-02-10,France
+2024-07-11,QAM-9,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-11-17,Belgique
+2023-01-31,QAM-87,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-05-15,Belgique
+2023-11-03,SP-133,Sport-Plage,T-shirt technique,Noir,S,1,24.99,0,24.99,E-commerce,Visa,Belgique,2022-07-20,Belgique
+2024-06-02,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-02-19,Belgique
+2025-01-28,CHE-104,Chechias,Chechia,Chocolat,XL,3,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-07-18,France
+2024-03-09,QAM-14,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-11-22,France
+2024-11-16,QAM-25,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-12-07,France
+2023-01-21,QAM-74,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-05-18,France
+2024-04-09,QAM-16,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-02-11,Luxembourg
+2024-10-04,QAM-33,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-03-15,France
+2025-05-11,QAM-41,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-04-09,Pays-Bas
+2024-04-12,QAM-8,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-11-15,Belgique
+2024-10-27,SP-131,Sport-Plage,Short cache awra,Noir,L,1,44.99,0,44.99,E-commerce,Mastercard,Belgique,2023-12-27,Belgique
+2024-04-18,LIN-120,Ensembles En Lin,Ensemble en Lin,Bleu,XL,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-08-18,Belgique
+2024-10-08,QAM-17,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-09-05,France
+2024-02-12,LIN-124,Ensembles En Lin,Ensemble en Lin,Bordeaux,XL,2,69.99,0,69.99,E-commerce,Mastercard,Belgique,2023-10-05,Luxembourg
+2024-09-28,QAM-79,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-10-25,Belgique
+2023-01-27,QAM-46,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-05-18,Pays-Bas
+2023-04-16,LIN-119,Ensembles En Lin,Ensemble en Lin,Bleu,L,2,69.99,0,69.99,E-commerce,Google Pay,Belgique,2024-02-06,Belgique
+2025-04-14,CHE-93,Chechias,Chechia,Noir,S,2,9.49,0,9.49,E-commerce,Visa,Belgique,2023-02-02,Pays-Bas
+2023-11-13,CHE-97,Chechias,Chechia,Bleu foncé,S,3,9.49,0,9.49,E-commerce,Visa,Belgique,2024-05-20,Belgique
+2023-08-10,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-03-05,Belgique
+2024-03-30,QAM-52,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-01-28,France
+2024-09-06,LIN-121,Ensembles En Lin,Ensemble en Lin,Bordeaux,S,1,69.99,0,69.99,E-commerce,Visa,Belgique,2022-07-26,Belgique
+2024-09-30,LIN-118,Ensembles En Lin,Ensemble en Lin,Bleu,M,1,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-11-04,Belgique
+2023-10-17,QAM-80,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-06-10,Belgique
+2023-05-30,QAM-46,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-05-13,Luxembourg
+2024-01-26,CHE-100,Chechias,Chechia,Bleu foncé,XL,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-01-13,France
+2023-01-29,QAM-45,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-07-18,Belgique
+2024-08-26,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-10-17,France
+2023-10-28,SP-132,Sport-Plage,Short cache awra,Noir,XL,3,44.99,0,44.99,E-commerce,Google Pay,Belgique,2022-04-06,France
+2024-07-29,QAM-1,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-04-30,Belgique
+2023-08-10,LIN-125,Ensembles En Lin,Ensemble en Lin,Beige,S,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2022-08-19,Belgique
+2024-03-12,QAM-19,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-01-19,Belgique
+2025-05-26,QAM-30,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-06-25,Belgique
+2023-10-17,QAM-8,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-11-25,France
+2023-03-16,SP-135,Sport-Plage,T-shirt technique,Noir,L,1,24.99,0,24.99,E-commerce,PayPal,Belgique,2023-06-09,Belgique
+2023-01-19,QAM-29,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-08-01,France
+2023-08-16,QAM-75,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2023-11-13,France
+2025-01-16,QAM-60,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-07-11,Belgique
+2023-06-20,QAM-77,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-10-09,France
+2023-07-16,LIN-113,Ensembles En Lin,Ensemble en Lin,Noir,S,2,69.99,0,69.99,E-commerce,Mastercard,Belgique,2023-10-08,Belgique
+2024-07-20,SP-131,Sport-Plage,Short cache awra,Noir,L,2,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2024-03-06,Pays-Bas
+2024-02-13,CHE-102,Chechias,Chechia,Chocolat,M,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-11-17,France
+2023-04-04,LIN-120,Ensembles En Lin,Ensemble en Lin,Bleu,XL,1,69.99,0,69.99,E-commerce,Mastercard,Belgique,2022-07-09,Luxembourg
+2025-03-03,SP-129,Sport-Plage,Short cache awra,Noir,S,3,44.99,0,44.99,E-commerce,Google Pay,Belgique,2023-09-25,France
+2023-09-19,QAM-87,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-09-20,Belgique
+2023-04-28,QAM-78,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-08-30,France
+2024-01-16,QAM-8,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-12-11,Pays-Bas
+2023-01-25,CHE-99,Chechias,Chechia,Bleu foncé,L,1,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-10-11,France
+2025-05-16,QAM-33,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-11-14,Luxembourg
+2023-01-19,QAM-43,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-11-15,Luxembourg
+2023-05-27,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-10-26,Belgique
+2024-08-13,QAM-85,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-03-18,Belgique
+2023-06-26,QAM-6,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-07-18,France
+2024-03-13,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-08-09,Belgique
+2023-04-04,QAM-28,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-11-30,Luxembourg
+2023-03-14,QAM-19,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-04-23,Pays-Bas
+2023-01-26,LIN-118,Ensembles En Lin,Ensemble en Lin,Bleu,M,3,69.99,0,69.99,E-commerce,Visa,Belgique,2022-01-02,Belgique
+2024-04-13,QAM-41,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-10-04,Belgique
+2023-11-25,QAM-40,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-08-08,France
+2025-05-22,SP-136,Sport-Plage,T-shirt technique,Noir,XL,3,24.99,0,24.99,E-commerce,PayPal,Belgique,2024-05-04,Belgique
+2023-01-25,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-01-20,Luxembourg
+2025-01-23,CHE-102,Chechias,Chechia,Chocolat,M,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-12-12,Belgique
+2023-01-29,QAM-4,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-12-31,France
+2024-12-30,QAM-63,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-09-04,Belgique
+2023-01-12,QAM-87,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-04-15,France
+2023-10-01,QAM-56,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-07-22,France
+2023-11-14,CHE-106,Chechias,Chechia,Gris foncé,M,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-05-03,France
+2023-03-11,QAM-32,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-02-05,Belgique
+2025-01-10,CHE-111,Chechias,Chechia,Gris métallisé,L,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-02-06,France
+2024-07-02,LIN-121,Ensembles En Lin,Ensemble en Lin,Bordeaux,S,1,69.99,0,69.99,E-commerce,Google Pay,Belgique,2022-10-21,Luxembourg
+2025-03-23,QAM-30,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-10-07,Belgique
+2025-02-05,QAM-21,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-06-02,Belgique
+2025-02-03,CHE-96,Chechias,Chechia,Noir,XL,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-07-17,Belgique
+2025-03-20,CHE-97,Chechias,Chechia,Bleu foncé,S,3,9.49,0,9.49,E-commerce,Visa,Belgique,2024-09-08,France
+2024-10-04,QAM-6,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-01-22,France
+2024-01-11,QAM-44,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-05-24,France
+2024-02-20,CHE-89,Chechias,Chechia,Gris clair,S,1,9.49,0,9.49,E-commerce,Google Pay,Belgique,2023-09-01,Belgique
+2023-01-29,QAM-42,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-07-06,Belgique
+2023-10-01,SP-134,Sport-Plage,T-shirt technique,Noir,M,3,24.99,0,24.99,E-commerce,PayPal,Belgique,2023-04-09,France
+2025-02-26,LIN-121,Ensembles En Lin,Ensemble en Lin,Bordeaux,S,3,69.99,0,69.99,E-commerce,Mastercard,Belgique,2023-10-22,France
+2025-03-12,LIN-121,Ensembles En Lin,Ensemble en Lin,Bordeaux,S,2,69.99,0,69.99,E-commerce,Mastercard,Belgique,2024-02-03,Pays-Bas
+2024-08-02,QAM-9,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-08-12,Belgique
+2024-01-25,QAM-24,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-02-07,France
+2023-01-01,QAM-30,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-05-27,Belgique
+2025-05-28,QAM-80,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-05-13,Belgique
+2023-10-27,CHE-102,Chechias,Chechia,Chocolat,M,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-05-04,France
+2023-02-07,QAM-82,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-07-17,France
+2023-12-26,QAM-45,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-07-05,Pays-Bas
+2024-05-30,LIN-121,Ensembles En Lin,Ensemble en Lin,Bordeaux,S,3,69.99,0,69.99,E-commerce,Visa,Belgique,2022-12-04,Belgique
+2024-07-24,QAM-10,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-05-21,Belgique
+2023-01-05,LIN-123,Ensembles En Lin,Ensemble en Lin,Bordeaux,L,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-10-03,France
+2025-01-27,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-04-18,France
+2025-03-24,QAM-33,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-05-31,Belgique
+2024-07-10,QAM-72,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-09-20,Belgique
+2024-09-13,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-05-24,Belgique
+2024-07-05,QAM-29,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-12-12,Luxembourg
+2024-05-18,CHE-101,Chechias,Chechia,Chocolat,S,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-09-16,Belgique
+2023-03-01,QAM-11,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-10-13,Belgique
+2024-06-29,QAM-30,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-05-30,Belgique
+2023-09-17,QAM-48,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-01-02,Belgique
+2025-03-23,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-06-15,Belgique
+2024-01-15,CHE-100,Chechias,Chechia,Bleu foncé,XL,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-09-11,France
+2025-05-08,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-03-29,Belgique
+2024-03-04,CHE-102,Chechias,Chechia,Chocolat,M,1,9.49,0,9.49,E-commerce,Visa,Belgique,2024-11-26,Luxembourg
+2023-07-03,CHE-104,Chechias,Chechia,Chocolat,XL,1,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-10-11,Belgique
+2024-09-19,LIN-121,Ensembles En Lin,Ensemble en Lin,Bordeaux,S,1,69.99,0,69.99,E-commerce,PayPal,Belgique,2022-01-09,France
+2023-11-16,CHE-107,Chechias,Chechia,Gris foncé,L,2,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-03-26,Luxembourg
+2023-06-21,SP-134,Sport-Plage,T-shirt technique,Noir,M,2,24.99,0,24.99,E-commerce,Mastercard,Belgique,2022-07-27,France
+2024-03-20,QAM-69,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-02-08,France
+2024-06-28,QAM-75,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-06-01,Belgique
+2025-04-26,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-02-23,Belgique
+2025-03-08,CHE-89,Chechias,Chechia,Gris clair,S,1,9.49,0,9.49,E-commerce,Visa,Belgique,2023-09-20,France
+2024-07-17,QAM-79,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-08-10,Pays-Bas
+2023-03-03,CHE-104,Chechias,Chechia,Chocolat,XL,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-04-14,France
+2023-09-24,QAM-1,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-09-11,France
+2023-11-19,QAM-72,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-05-25,France
+2024-04-05,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-04-09,France
+2024-11-21,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-06-02,Belgique
+2023-07-25,CHE-101,Chechias,Chechia,Chocolat,S,3,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-07-02,France
+2025-04-03,QAM-68,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-05-27,Pays-Bas
+2024-10-22,QAM-26,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-12-04,Belgique
+2025-04-07,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-04-01,France
+2023-02-12,QAM-58,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-08-14,Belgique
+2024-12-07,QAM-10,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-06-10,France
+2023-07-02,CHE-111,Chechias,Chechia,Gris métallisé,L,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2024-03-11,Belgique
+2023-08-11,SP-133,Sport-Plage,T-shirt technique,Noir,S,1,24.99,0,24.99,E-commerce,Google Pay,Belgique,2023-02-02,France
+2024-01-26,QAM-1,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-03-26,France
+2023-06-18,QAM-23,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-02-05,Belgique
+2024-01-22,LIN-113,Ensembles En Lin,Ensemble en Lin,Noir,S,2,69.99,0,69.99,E-commerce,Visa,Belgique,2023-10-02,France
+2023-10-29,CHE-102,Chechias,Chechia,Chocolat,M,3,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-11-22,France
+2025-04-16,QAM-6,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-11-19,Pays-Bas
+2023-09-01,LIN-124,Ensembles En Lin,Ensemble en Lin,Bordeaux,XL,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-04-05,Belgique
+2024-10-13,QAM-24,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-08-12,Belgique
+2024-11-18,QAM-86,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2023-04-15,Belgique
+2023-03-24,LIN-119,Ensembles En Lin,Ensemble en Lin,Bleu,L,1,69.99,0,69.99,E-commerce,Mastercard,Belgique,2024-11-11,Pays-Bas
+2025-01-17,CHE-96,Chechias,Chechia,Noir,XL,1,9.49,0,9.49,E-commerce,Visa,Belgique,2024-01-20,Pays-Bas
+2024-01-06,QAM-34,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-02-07,France
+2024-05-13,QAM-41,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-08-18,Luxembourg
+2024-10-11,CHE-104,Chechias,Chechia,Chocolat,XL,2,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-07-17,France
+2023-12-09,QAM-33,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-03-14,France
+2024-05-05,QAM-82,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-01-27,Belgique
+2025-05-28,LIN-128,Ensembles En Lin,Ensemble en Lin,Beige,XL,3,69.99,0,69.99,E-commerce,Mastercard,Belgique,2022-08-14,France
+2025-01-05,LIN-114,Ensembles En Lin,Ensemble en Lin,Noir,M,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-03-08,Belgique
+2024-10-02,QAM-64,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-10-11,Luxembourg
+2025-04-02,CHE-107,Chechias,Chechia,Gris foncé,L,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-05-28,France
+2024-06-14,LIN-125,Ensembles En Lin,Ensemble en Lin,Beige,S,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-08-17,France
+2024-12-23,QAM-71,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-03-29,Belgique
+2024-07-12,QAM-12,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-10-16,Belgique
+2025-04-08,SP-135,Sport-Plage,T-shirt technique,Noir,L,2,24.99,0,24.99,E-commerce,Apple Pay,Belgique,2024-03-26,Belgique
+2023-06-09,SP-134,Sport-Plage,T-shirt technique,Noir,M,3,24.99,0,24.99,E-commerce,Apple Pay,Belgique,2023-10-21,Belgique
+2024-06-24,QAM-9,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-07-01,Belgique
+2024-04-26,QAM-78,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-12-08,Pays-Bas
+2024-07-18,QAM-55,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-01-17,France
+2024-01-21,CHE-111,Chechias,Chechia,Gris métallisé,L,2,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-06-07,Belgique
+2024-11-16,LIN-120,Ensembles En Lin,Ensemble en Lin,Bleu,XL,2,69.99,0,69.99,E-commerce,Visa,Belgique,2023-04-22,Belgique
+2025-01-07,QAM-67,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-12-05,Belgique
+2025-04-19,QAM-8,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-06-02,France
+2024-05-21,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-04-09,France
+2024-02-16,QAM-55,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-11-26,Pays-Bas
+2025-04-14,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-10-07,France
+2023-12-29,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-05-12,Pays-Bas
+2023-12-15,QAM-64,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-10-29,Luxembourg
+2023-09-02,QAM-68,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-06-30,Belgique
+2024-12-27,CHE-105,Chechias,Chechia,Gris foncé,S,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-08-30,Pays-Bas
+2024-12-24,CHE-104,Chechias,Chechia,Chocolat,XL,2,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-12-01,Belgique
+2024-12-02,QAM-19,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-09-19,Luxembourg
+2023-04-13,CHE-108,Chechias,Chechia,Gris foncé,XL,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-07-10,Belgique
+2023-09-22,CHE-111,Chechias,Chechia,Gris métallisé,L,1,9.49,0,9.49,E-commerce,Google Pay,Belgique,2022-09-10,Luxembourg
+2025-03-20,SP-136,Sport-Plage,T-shirt technique,Noir,XL,1,24.99,0,24.99,E-commerce,PayPal,Belgique,2024-09-07,Luxembourg
+2025-03-05,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-07-16,Luxembourg
+2023-02-23,QAM-66,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-05-08,France
+2024-07-17,QAM-15,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-01-18,Belgique
+2023-03-31,QAM-77,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-07-20,Belgique
+2023-09-23,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-07-24,Belgique
+2025-04-24,QAM-42,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-11-17,Belgique
+2023-08-26,CHE-96,Chechias,Chechia,Noir,XL,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-09-18,France
+2023-11-27,CHE-110,Chechias,Chechia,Gris métallisé,M,2,9.49,0,9.49,E-commerce,PayPal,Belgique,2024-05-03,Belgique
+2024-01-19,QAM-81,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-08-19,Pays-Bas
+2023-08-03,CHE-111,Chechias,Chechia,Gris métallisé,L,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-06-04,France
+2023-03-10,CHE-111,Chechias,Chechia,Gris métallisé,L,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2023-05-05,Luxembourg
+2023-01-09,SP-133,Sport-Plage,T-shirt technique,Noir,S,2,24.99,0,24.99,E-commerce,Google Pay,Belgique,2024-02-24,Belgique
+2023-09-16,QAM-50,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-09-03,Luxembourg
+2023-06-10,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-11-28,Pays-Bas
+2024-11-26,QAM-10,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-01-29,France
+2023-02-18,SP-130,Sport-Plage,Short cache awra,Noir,M,1,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2023-06-22,France
+2024-11-21,QAM-60,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-07-09,France
+2024-07-16,QAM-25,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2023-02-12,Belgique
+2023-04-30,QAM-86,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-06-09,France
+2024-06-02,QAM-81,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-04-07,Belgique
+2024-08-21,LIN-120,Ensembles En Lin,Ensemble en Lin,Bleu,XL,2,69.99,0,69.99,E-commerce,PayPal,Belgique,2024-06-21,Belgique
+2024-02-01,QAM-50,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-02-05,Belgique
+2024-01-30,SP-131,Sport-Plage,Short cache awra,Noir,L,1,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2023-11-16,Belgique
+2023-01-08,LIN-128,Ensembles En Lin,Ensemble en Lin,Beige,XL,2,69.99,0,69.99,E-commerce,Google Pay,Belgique,2022-01-20,Belgique
+2024-11-16,SP-135,Sport-Plage,T-shirt technique,Noir,L,2,24.99,0,24.99,E-commerce,Visa,Belgique,2022-11-17,Belgique
+2024-01-13,CHE-89,Chechias,Chechia,Gris clair,S,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-05-27,Pays-Bas
+2024-08-28,CHE-101,Chechias,Chechia,Chocolat,S,2,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-02-04,France
+2023-03-09,QAM-74,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-10-16,Pays-Bas
+2023-04-17,QAM-64,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-08-29,Belgique
+2024-09-26,CHE-102,Chechias,Chechia,Chocolat,M,1,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-04-16,Belgique
+2024-06-29,CHE-101,Chechias,Chechia,Chocolat,S,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2024-04-13,France
+2024-01-19,LIN-128,Ensembles En Lin,Ensemble en Lin,Beige,XL,1,69.99,0,69.99,E-commerce,PayPal,Belgique,2023-12-28,Belgique
+2024-06-23,QAM-58,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-05-03,Belgique
+2025-02-10,QAM-5,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-02-20,France
+2023-05-17,CHE-109,Chechias,Chechia,Gris métallisé,S,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-07-29,Belgique
+2023-08-27,CHE-96,Chechias,Chechia,Noir,XL,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-05-30,France
+2025-02-27,QAM-1,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-11-10,France
+2024-06-24,CHE-103,Chechias,Chechia,Chocolat,L,1,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-07-24,Belgique
+2023-03-06,CHE-103,Chechias,Chechia,Chocolat,L,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-11-01,Belgique
+2024-01-08,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-11-13,France
+2024-04-05,LIN-119,Ensembles En Lin,Ensemble en Lin,Bleu,L,1,69.99,0,69.99,E-commerce,Visa,Belgique,2024-04-17,France
+2024-01-30,QAM-88,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-12-13,Belgique
+2023-06-13,LIN-114,Ensembles En Lin,Ensemble en Lin,Noir,M,3,69.99,0,69.99,E-commerce,PayPal,Belgique,2024-09-29,Pays-Bas
+2023-07-15,CHE-111,Chechias,Chechia,Gris métallisé,L,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-03-20,Belgique
+2025-01-18,SP-130,Sport-Plage,Short cache awra,Noir,M,2,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2023-09-05,France
+2024-06-24,QAM-71,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-09-19,Pays-Bas
+2023-09-21,CHE-98,Chechias,Chechia,Bleu foncé,M,1,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-09-21,Belgique
+2023-12-30,QAM-1,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-12-12,Belgique
+2024-11-16,CHE-105,Chechias,Chechia,Gris foncé,S,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-09-30,Belgique
+2023-01-03,QAM-55,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-01-05,Belgique
+2025-03-23,QAM-32,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-02-13,Belgique
+2024-05-12,QAM-18,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-05-26,France
+2023-04-13,SP-130,Sport-Plage,Short cache awra,Noir,M,2,44.99,0,44.99,E-commerce,Google Pay,Belgique,2024-09-18,Belgique
+2023-02-11,QAM-61,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-06-02,France
+2024-04-09,QAM-88,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-02-16,Pays-Bas
+2023-02-10,LIN-123,Ensembles En Lin,Ensemble en Lin,Bordeaux,L,2,69.99,0,69.99,E-commerce,PayPal,Belgique,2024-05-16,Luxembourg
+2024-07-23,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-04-02,France
+2023-12-10,QAM-65,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-07-24,Belgique
+2023-11-13,QAM-36,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-10-18,France
+2023-02-10,CHE-103,Chechias,Chechia,Chocolat,L,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2022-09-26,France
+2025-05-18,CHE-103,Chechias,Chechia,Chocolat,L,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-01-05,Belgique
+2024-06-07,SP-135,Sport-Plage,T-shirt technique,Noir,L,3,24.99,0,24.99,E-commerce,Google Pay,Belgique,2023-09-28,Belgique
+2023-12-26,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-10-19,Luxembourg
+2024-05-18,QAM-51,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-04-30,Belgique
+2023-04-02,QAM-76,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-04-10,Belgique
+2023-03-06,QAM-56,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-12-17,Belgique
+2024-04-22,QAM-67,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-01-11,Belgique
+2023-02-07,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-04-27,Luxembourg
+2023-02-07,CHE-93,Chechias,Chechia,Noir,S,3,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-03-01,France
+2023-04-28,QAM-21,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-10-09,France
+2024-04-19,CHE-110,Chechias,Chechia,Gris métallisé,M,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-12-17,Belgique
+2023-04-10,LIN-124,Ensembles En Lin,Ensemble en Lin,Bordeaux,XL,1,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-09-26,Belgique
+2023-02-12,QAM-70,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-05-28,France
+2023-01-21,CHE-94,Chechias,Chechia,Noir,M,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-03-12,Belgique
+2023-06-09,CHE-105,Chechias,Chechia,Gris foncé,S,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-07-14,Belgique
+2024-05-21,SP-129,Sport-Plage,Short cache awra,Noir,S,2,44.99,0,44.99,E-commerce,PayPal,Belgique,2023-05-03,France
+2023-06-13,QAM-19,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-06-15,Belgique
+2023-11-25,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-12-05,France
+2024-02-27,QAM-67,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-08-04,Belgique
+2024-05-22,QAM-37,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-02-29,Belgique
+2025-06-03,QAM-23,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-05-10,Belgique
+2023-10-03,CHE-96,Chechias,Chechia,Noir,XL,2,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-09-04,Pays-Bas
+2024-06-11,QAM-68,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-06-03,Luxembourg
+2023-03-23,QAM-43,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-09-23,Pays-Bas
+2023-05-25,LIN-118,Ensembles En Lin,Ensemble en Lin,Bleu,M,3,69.99,0,69.99,E-commerce,Google Pay,Belgique,2023-11-28,France
+2023-06-21,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-12-28,Belgique
+2024-06-10,QAM-78,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-12-06,France
+2023-09-18,QAM-56,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-10-05,France
+2024-10-06,QAM-88,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-04-04,Luxembourg
+2023-06-26,QAM-28,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-08-15,Belgique
+2024-05-15,QAM-6,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-10-08,France
+2024-08-27,QAM-20,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-03-29,Belgique
+2024-06-24,QAM-78,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-06-30,Belgique
+2025-04-20,CHE-90,Chechias,Chechia,Gris clair,M,1,9.49,0,9.49,E-commerce,Google Pay,Belgique,2022-08-06,France
+2025-03-20,QAM-85,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-04-19,France
+2023-05-26,SP-130,Sport-Plage,Short cache awra,Noir,M,3,44.99,0,44.99,E-commerce,PayPal,Belgique,2023-03-08,Belgique
+2023-06-14,QAM-76,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-12-07,Belgique
+2024-09-10,QAM-24,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-07-05,France
+2023-08-12,QAM-46,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-12-23,France
+2024-08-04,LIN-128,Ensembles En Lin,Ensemble en Lin,Beige,XL,3,69.99,0,69.99,E-commerce,Visa,Belgique,2022-01-23,Luxembourg
+2023-11-24,CHE-98,Chechias,Chechia,Bleu foncé,M,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-06-06,Pays-Bas
+2024-02-12,QAM-68,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-03-12,France
+2023-01-26,QAM-48,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-02-01,Belgique
+2023-04-20,CHE-106,Chechias,Chechia,Gris foncé,M,1,9.49,0,9.49,E-commerce,Visa,Belgique,2023-03-18,France
+2024-06-17,SP-136,Sport-Plage,T-shirt technique,Noir,XL,1,24.99,0,24.99,E-commerce,Visa,Belgique,2024-02-08,Belgique
+2024-11-15,SP-135,Sport-Plage,T-shirt technique,Noir,L,3,24.99,0,24.99,E-commerce,Mastercard,Belgique,2024-10-12,Belgique
+2024-05-07,QAM-52,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-05-31,Luxembourg
+2023-03-14,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-11-05,Belgique
+2023-11-01,QAM-52,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-03-02,Pays-Bas
+2024-07-05,SP-131,Sport-Plage,Short cache awra,Noir,L,1,44.99,0,44.99,E-commerce,Google Pay,Belgique,2022-12-02,France
+2023-09-01,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-09-15,France
+2025-01-28,SP-132,Sport-Plage,Short cache awra,Noir,XL,1,44.99,0,44.99,E-commerce,Mastercard,Belgique,2023-05-12,France
+2025-04-19,QAM-42,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-06-14,Luxembourg
+2025-05-05,QAM-34,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-06-09,France
+2023-06-17,CHE-97,Chechias,Chechia,Bleu foncé,S,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-05-01,France
+2023-10-28,QAM-33,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-11-21,Belgique
+2023-11-04,SP-131,Sport-Plage,Short cache awra,Noir,L,3,44.99,0,44.99,E-commerce,Visa,Belgique,2023-01-15,France
+2025-04-18,QAM-37,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-08-14,Belgique
+2023-02-23,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-11-22,France
+2024-02-14,QAM-13,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-12-02,France
+2024-04-04,QAM-69,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-10-12,France
+2024-11-08,LIN-121,Ensembles En Lin,Ensemble en Lin,Bordeaux,S,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-02-01,Belgique
+2023-12-22,QAM-84,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-01-12,Belgique
+2024-07-17,QAM-42,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2023-05-14,France
+2025-06-03,QAM-85,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-01-24,Belgique
+2025-06-08,CHE-106,Chechias,Chechia,Gris foncé,M,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-02-04,Belgique
+2024-09-21,LIN-119,Ensembles En Lin,Ensemble en Lin,Bleu,L,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-12-28,Belgique
+2023-05-01,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-04-28,Pays-Bas
+2024-06-20,QAM-58,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-03-31,France
+2025-04-15,QAM-22,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-02-15,Belgique
+2023-10-23,QAM-45,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-08-28,Belgique
+2023-01-02,QAM-78,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-08-27,Belgique
+2025-05-06,QAM-60,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-10-18,France
+2023-08-09,QAM-18,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-02-22,France
+2024-09-16,QAM-68,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-04-25,Belgique
+2024-08-10,QAM-12,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-09-09,Belgique
+2024-12-19,QAM-17,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-04-05,Belgique
+2023-06-22,CHE-90,Chechias,Chechia,Gris clair,M,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-02-17,France
+2024-08-07,CHE-94,Chechias,Chechia,Noir,M,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-12-30,France
+2023-03-26,CHE-101,Chechias,Chechia,Chocolat,S,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-10-17,Belgique
+2023-05-21,QAM-87,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-01-31,Belgique
+2023-03-08,QAM-20,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-11-07,Belgique
+2023-04-29,QAM-82,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-04-02,Pays-Bas
+2023-12-22,QAM-87,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-07-08,Belgique
+2024-04-05,QAM-51,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-07-11,France
+2023-12-13,LIN-117,Ensembles En Lin,Ensemble en Lin,Bleu,S,3,69.99,0,69.99,E-commerce,Mastercard,Belgique,2024-01-09,France
+2023-09-20,CHE-94,Chechias,Chechia,Noir,M,3,9.49,0,9.49,E-commerce,Visa,Belgique,2024-09-04,Belgique
+2024-12-27,QAM-42,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-10-05,Belgique
+2024-08-19,QAM-81,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-04-06,Belgique
+2023-10-27,QAM-10,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-10-25,France
+2023-05-20,SP-129,Sport-Plage,Short cache awra,Noir,S,1,44.99,0,44.99,E-commerce,PayPal,Belgique,2022-02-06,France
+2023-01-24,QAM-65,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-10-06,France
+2024-02-28,QAM-53,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-08-05,France
+2025-01-08,LIN-124,Ensembles En Lin,Ensemble en Lin,Bordeaux,XL,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-05-16,Belgique
+2023-04-09,QAM-14,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-05-22,Pays-Bas
+2023-09-13,QAM-16,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-03-03,France
+2024-10-28,QAM-65,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-08-19,Belgique
+2025-05-30,QAM-77,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-12-30,Pays-Bas
+2023-03-02,QAM-40,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-02-01,France
+2024-08-09,QAM-55,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-11-30,France
+2025-04-16,QAM-25,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-11-08,France
+2023-05-24,QAM-17,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-06-26,Luxembourg
+2024-08-09,QAM-75,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-01-31,France
+2023-06-27,QAM-45,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-03-21,Belgique
+2025-03-12,CHE-96,Chechias,Chechia,Noir,XL,2,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-03-17,Belgique
+2025-03-20,QAM-58,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-09-22,Pays-Bas
+2023-04-20,QAM-13,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-03-31,Belgique
+2023-03-20,QAM-6,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-12-19,Belgique
+2023-03-07,LIN-116,Ensembles En Lin,Ensemble en Lin,Noir,XL,1,69.99,0,69.99,E-commerce,Google Pay,Belgique,2024-01-05,Belgique
+2023-04-03,LIN-122,Ensembles En Lin,Ensemble en Lin,Bordeaux,M,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-04-30,Belgique
+2024-04-19,QAM-40,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-05-24,France
+2025-04-21,CHE-112,Chechias,Chechia,Gris métallisé,XL,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-06-03,Pays-Bas
+2023-07-21,SP-130,Sport-Plage,Short cache awra,Noir,M,1,44.99,0,44.99,E-commerce,Google Pay,Belgique,2024-12-28,Belgique
+2023-10-26,CHE-93,Chechias,Chechia,Noir,S,2,9.49,0,9.49,E-commerce,Visa,Belgique,2023-01-31,Belgique
+2023-07-27,QAM-64,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-11-14,Belgique
+2024-12-22,QAM-6,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-08-05,Luxembourg
+2023-06-30,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-06-09,France
+2024-02-10,CHE-90,Chechias,Chechia,Gris clair,M,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-07-23,Belgique
+2023-01-19,CHE-101,Chechias,Chechia,Chocolat,S,2,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-11-28,Luxembourg
+2023-08-04,QAM-74,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-04-19,Luxembourg
+2023-08-11,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-12-01,Luxembourg
+2023-04-28,SP-129,Sport-Plage,Short cache awra,Noir,S,1,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2024-07-23,Pays-Bas
+2024-08-14,CHE-98,Chechias,Chechia,Bleu foncé,M,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-02-02,Belgique
+2023-11-12,CHE-91,Chechias,Chechia,Gris clair,L,2,9.49,0,9.49,E-commerce,Visa,Belgique,2023-09-26,France
+2023-10-03,QAM-63,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-01-03,France
+2023-05-28,CHE-105,Chechias,Chechia,Gris foncé,S,2,9.49,0,9.49,E-commerce,Visa,Belgique,2022-08-23,Luxembourg
+2024-08-19,QAM-13,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-10-20,France
+2024-02-07,CHE-89,Chechias,Chechia,Gris clair,S,1,9.49,0,9.49,E-commerce,Visa,Belgique,2024-01-21,France
+2023-02-06,CHE-105,Chechias,Chechia,Gris foncé,S,2,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-08-11,France
+2024-10-11,SP-134,Sport-Plage,T-shirt technique,Noir,M,2,24.99,0,24.99,E-commerce,PayPal,Belgique,2024-10-29,Belgique
+2024-03-30,QAM-44,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-08-11,France
+2023-01-04,QAM-44,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-05-07,Pays-Bas
+2023-09-11,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-07-01,Pays-Bas
+2024-04-06,QAM-31,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-06-19,Belgique
+2025-01-01,LIN-123,Ensembles En Lin,Ensemble en Lin,Bordeaux,L,1,69.99,0,69.99,E-commerce,Mastercard,Belgique,2024-08-03,Belgique
+2023-06-28,QAM-17,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-03-05,Belgique
+2023-04-05,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-09-26,France
+2023-11-08,QAM-65,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-01-29,Luxembourg
+2023-01-02,QAM-15,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-12-05,Belgique
+2024-09-22,QAM-60,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2023-05-15,France
+2023-06-25,QAM-33,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-05-26,Luxembourg
+2024-06-21,QAM-36,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-08-05,France
+2024-02-16,QAM-88,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-12-29,France
+2024-11-23,LIN-119,Ensembles En Lin,Ensemble en Lin,Bleu,L,1,69.99,0,69.99,E-commerce,Mastercard,Belgique,2023-03-21,France
+2025-04-08,QAM-18,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-05-25,France
+2023-12-19,SP-133,Sport-Plage,T-shirt technique,Noir,S,3,24.99,0,24.99,E-commerce,PayPal,Belgique,2022-06-16,Belgique
+2024-09-21,QAM-51,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-04-01,France
+2023-10-26,CHE-106,Chechias,Chechia,Gris foncé,M,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2023-12-15,France
+2024-03-02,LIN-122,Ensembles En Lin,Ensemble en Lin,Bordeaux,M,3,69.99,0,69.99,E-commerce,PayPal,Belgique,2022-02-08,Luxembourg
+2024-07-01,QAM-3,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-06-22,France
+2024-08-19,CHE-110,Chechias,Chechia,Gris métallisé,M,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2023-10-15,France
+2024-08-09,QAM-86,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-01-24,Belgique
+2024-06-03,QAM-34,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-12-17,France
+2024-03-30,QAM-46,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-04-21,Belgique
+2024-05-13,QAM-83,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-04-01,Belgique
+2025-02-15,QAM-59,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-04-08,France
+2024-04-28,QAM-82,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-06-13,Pays-Bas
+2023-11-24,QAM-16,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-10-21,Belgique
+2023-11-13,LIN-116,Ensembles En Lin,Ensemble en Lin,Noir,XL,2,69.99,0,69.99,E-commerce,Google Pay,Belgique,2023-01-22,Belgique
+2024-08-08,QAM-16,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-12-14,Luxembourg
+2024-10-08,QAM-46,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-07-09,Belgique
+2025-06-11,QAM-41,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-05-20,France
+2024-02-04,QAM-69,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-04-03,France
+2023-10-03,QAM-50,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-07-17,France
+2023-11-23,QAM-14,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-07-22,Belgique
+2025-06-07,QAM-25,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-05-14,Belgique
+2023-01-01,CHE-92,Chechias,Chechia,Gris clair,XL,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-02-27,France
+2025-01-09,QAM-44,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-11-16,France
+2024-10-18,CHE-101,Chechias,Chechia,Chocolat,S,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-11-03,Belgique
+2025-05-18,QAM-11,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-06-22,France
+2024-04-21,QAM-50,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-03-25,Belgique
+2023-06-21,CHE-105,Chechias,Chechia,Gris foncé,S,2,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-03-21,France
+2023-09-05,QAM-56,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-06-04,Belgique
+2024-09-12,LIN-122,Ensembles En Lin,Ensemble en Lin,Bordeaux,M,2,69.99,0,69.99,E-commerce,Visa,Belgique,2022-07-22,Pays-Bas
+2023-08-19,QAM-78,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-02-03,Belgique
+2023-02-21,QAM-71,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-02-16,Belgique
+2024-07-31,QAM-71,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2023-10-18,Belgique
+2025-05-04,LIN-113,Ensembles En Lin,Ensemble en Lin,Noir,S,1,69.99,0,69.99,E-commerce,PayPal,Belgique,2023-04-16,Belgique
+2024-11-26,LIN-123,Ensembles En Lin,Ensemble en Lin,Bordeaux,L,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-08-28,Luxembourg
+2024-08-30,QAM-61,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-11-01,Pays-Bas
+2023-02-14,SP-131,Sport-Plage,Short cache awra,Noir,L,1,44.99,0,44.99,E-commerce,PayPal,Belgique,2024-01-06,Belgique
+2025-05-04,SP-130,Sport-Plage,Short cache awra,Noir,M,2,44.99,0,44.99,E-commerce,Google Pay,Belgique,2024-02-23,Belgique
+2023-02-10,QAM-6,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-08-25,France
+2024-11-03,CHE-105,Chechias,Chechia,Gris foncé,S,3,9.49,0,9.49,E-commerce,Visa,Belgique,2022-12-24,Luxembourg
+2023-08-15,LIN-116,Ensembles En Lin,Ensemble en Lin,Noir,XL,2,69.99,0,69.99,E-commerce,Visa,Belgique,2024-08-29,France
+2024-08-17,QAM-75,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-10-30,Belgique
+2024-11-11,QAM-55,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2023-01-08,Belgique
+2023-05-24,QAM-77,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-10-28,France
+2023-09-30,QAM-69,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-11-07,Belgique
+2025-05-31,QAM-34,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-03-31,France
+2024-04-19,QAM-41,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-11-29,Belgique
+2023-05-24,QAM-71,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-06-24,France
+2023-11-28,QAM-79,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-01-02,Belgique
+2024-03-17,SP-130,Sport-Plage,Short cache awra,Noir,M,1,44.99,0,44.99,E-commerce,Visa,Belgique,2024-05-18,France
+2023-10-03,QAM-84,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-02-10,France
+2024-11-09,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-01-10,France
+2025-03-28,LIN-122,Ensembles En Lin,Ensemble en Lin,Bordeaux,M,3,69.99,0,69.99,E-commerce,Mastercard,Belgique,2023-05-17,Belgique
+2023-05-09,CHE-97,Chechias,Chechia,Bleu foncé,S,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-08-16,France
+2023-01-18,QAM-21,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-07-17,France
+2023-12-03,CHE-108,Chechias,Chechia,Gris foncé,XL,2,9.49,0,9.49,E-commerce,Visa,Belgique,2023-04-06,France
+2023-02-09,QAM-24,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-01-02,France
+2025-05-24,QAM-85,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-01-22,France
+2025-02-20,QAM-88,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-07-13,Luxembourg
+2024-02-01,CHE-94,Chechias,Chechia,Noir,M,3,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-06-27,Belgique
+2023-12-04,QAM-70,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-01-25,Luxembourg
+2024-06-25,QAM-79,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-06-01,France
+2025-03-22,QAM-81,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-09-13,Belgique
+2024-08-10,QAM-19,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-12-10,Belgique
+2023-09-06,QAM-46,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-03-26,Belgique
+2024-11-15,SP-135,Sport-Plage,T-shirt technique,Noir,L,1,24.99,0,24.99,E-commerce,Google Pay,Belgique,2022-01-10,France
+2023-03-27,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-04-03,France
+2023-04-25,CHE-104,Chechias,Chechia,Chocolat,XL,1,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-03-08,France
+2024-07-31,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-05-26,France
+2023-12-17,LIN-126,Ensembles En Lin,Ensemble en Lin,Beige,M,2,69.99,0,69.99,E-commerce,Visa,Belgique,2024-10-25,Belgique
+2025-04-24,SP-136,Sport-Plage,T-shirt technique,Noir,XL,3,24.99,0,24.99,E-commerce,PayPal,Belgique,2024-10-12,Belgique
+2024-03-17,LIN-120,Ensembles En Lin,Ensemble en Lin,Bleu,XL,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-01-09,Belgique
+2025-02-02,QAM-12,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-12-24,Belgique
+2023-04-27,LIN-123,Ensembles En Lin,Ensemble en Lin,Bordeaux,L,2,69.99,0,69.99,E-commerce,Mastercard,Belgique,2022-05-26,Belgique
+2023-11-22,SP-129,Sport-Plage,Short cache awra,Noir,S,3,44.99,0,44.99,E-commerce,Mastercard,Belgique,2022-08-12,Belgique
+2024-12-13,QAM-24,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-06-26,France
+2024-06-18,LIN-125,Ensembles En Lin,Ensemble en Lin,Beige,S,1,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-05-02,France
+2024-07-02,QAM-58,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-03-04,Pays-Bas
+2024-02-06,LIN-120,Ensembles En Lin,Ensemble en Lin,Bleu,XL,1,69.99,0,69.99,E-commerce,Visa,Belgique,2024-04-06,Pays-Bas
+2024-07-11,QAM-20,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-03-05,France
+2023-01-19,CHE-98,Chechias,Chechia,Bleu foncé,M,3,9.49,0,9.49,E-commerce,Google Pay,Belgique,2023-11-20,Belgique
+2023-08-10,CHE-98,Chechias,Chechia,Bleu foncé,M,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-04-15,France
+2023-05-26,QAM-45,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-05-26,France
+2025-01-01,QAM-84,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-01-20,Belgique
+2024-01-14,SP-135,Sport-Plage,T-shirt technique,Noir,L,1,24.99,0,24.99,E-commerce,Mastercard,Belgique,2023-02-09,Belgique
+2023-07-10,CHE-108,Chechias,Chechia,Gris foncé,XL,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-04-02,Luxembourg
+2024-06-24,LIN-124,Ensembles En Lin,Ensemble en Lin,Bordeaux,XL,1,69.99,0,69.99,E-commerce,Google Pay,Belgique,2023-06-02,Belgique
+2023-12-05,QAM-18,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-04-21,France
+2023-01-13,CHE-108,Chechias,Chechia,Gris foncé,XL,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-12-10,France
+2024-02-15,QAM-9,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-02-10,Belgique
+2024-05-30,CHE-100,Chechias,Chechia,Bleu foncé,XL,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2024-11-12,Belgique
+2024-01-07,QAM-8,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-09-23,Belgique
+2023-04-07,QAM-5,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-11-08,Belgique
+2023-08-09,QAM-23,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-12-15,Belgique
+2025-06-15,QAM-76,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-03-24,Luxembourg
+2023-02-04,CHE-103,Chechias,Chechia,Chocolat,L,1,9.49,0,9.49,E-commerce,Visa,Belgique,2023-04-02,Belgique
+2025-01-08,SP-135,Sport-Plage,T-shirt technique,Noir,L,3,24.99,0,24.99,E-commerce,Apple Pay,Belgique,2022-01-01,France
+2023-09-09,CHE-108,Chechias,Chechia,Gris foncé,XL,1,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-02-20,Belgique
+2023-05-08,CHE-110,Chechias,Chechia,Gris métallisé,M,2,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-11-16,Pays-Bas
+2023-12-06,QAM-79,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-12-18,Belgique
+2024-10-18,SP-135,Sport-Plage,T-shirt technique,Noir,L,2,24.99,0,24.99,E-commerce,Apple Pay,Belgique,2023-03-25,Belgique
+2023-07-09,CHE-111,Chechias,Chechia,Gris métallisé,L,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2024-05-30,Luxembourg
+2024-05-18,QAM-20,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-05-03,Luxembourg
+2024-05-17,CHE-111,Chechias,Chechia,Gris métallisé,L,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-02-03,Belgique
+2023-02-21,QAM-83,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-04-05,Luxembourg
+2023-07-08,CHE-93,Chechias,Chechia,Noir,S,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-06-03,France
+2024-11-04,SP-135,Sport-Plage,T-shirt technique,Noir,L,2,24.99,0,24.99,E-commerce,Visa,Belgique,2022-09-07,France
+2024-02-12,LIN-123,Ensembles En Lin,Ensemble en Lin,Bordeaux,L,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-11-05,Belgique
+2024-08-01,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-03-14,Belgique
+2023-07-13,LIN-115,Ensembles En Lin,Ensemble en Lin,Noir,L,3,69.99,0,69.99,E-commerce,Google Pay,Belgique,2022-04-28,France
+2024-10-08,QAM-70,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-02-10,France
+2023-09-22,LIN-120,Ensembles En Lin,Ensemble en Lin,Bleu,XL,1,69.99,0,69.99,E-commerce,Google Pay,Belgique,2022-09-25,Belgique
+2023-02-02,QAM-13,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-12-13,France
+2024-05-30,QAM-62,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-08-24,France
+2023-11-01,QAM-18,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-01-24,Belgique
+2023-02-19,LIN-125,Ensembles En Lin,Ensemble en Lin,Beige,S,2,69.99,0,69.99,E-commerce,PayPal,Belgique,2024-09-16,France
+2023-08-29,QAM-23,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-02-02,Belgique
+2024-11-14,QAM-73,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-02-05,France
+2024-05-19,QAM-2,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-09-16,France
+2024-06-10,QAM-68,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-02-06,Pays-Bas
+2025-05-31,QAM-30,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-07-07,Belgique
+2024-09-21,QAM-3,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-05-02,Belgique
+2024-09-15,QAM-70,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-08-01,Belgique
+2025-02-09,CHE-94,Chechias,Chechia,Noir,M,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-03-16,Belgique
+2024-11-12,QAM-76,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-03-11,Belgique
+2025-02-12,QAM-44,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-04-13,Pays-Bas
+2024-01-15,QAM-20,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-02-03,Belgique
+2023-02-27,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-01-08,Belgique
+2023-09-03,QAM-61,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-03-16,France
+2024-01-31,SP-135,Sport-Plage,T-shirt technique,Noir,L,2,24.99,0,24.99,E-commerce,Apple Pay,Belgique,2022-04-08,Belgique
+2024-12-25,SP-129,Sport-Plage,Short cache awra,Noir,S,2,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2024-03-08,France
+2024-01-03,QAM-82,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-05-08,Belgique
+2024-12-20,QAM-60,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-03-11,France
+2025-01-19,QAM-13,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-03-23,Belgique
+2023-04-05,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-09-06,Belgique
+2024-10-21,QAM-73,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-06-15,Pays-Bas
+2023-10-14,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-09-10,Belgique
+2025-06-18,QAM-55,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-10-16,France
+2023-08-26,QAM-5,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-06-26,Belgique
+2023-07-26,LIN-114,Ensembles En Lin,Ensemble en Lin,Noir,M,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-01-29,Belgique
+2023-02-11,CHE-104,Chechias,Chechia,Chocolat,XL,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-03-22,Luxembourg
+2023-04-24,SP-134,Sport-Plage,T-shirt technique,Noir,M,1,24.99,0,24.99,E-commerce,Apple Pay,Belgique,2022-05-13,Belgique
+2024-11-16,QAM-44,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-03-07,France
+2023-08-20,LIN-121,Ensembles En Lin,Ensemble en Lin,Bordeaux,S,1,69.99,0,69.99,E-commerce,PayPal,Belgique,2024-06-18,Pays-Bas
+2023-05-12,QAM-75,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-05-18,France
+2025-05-27,SP-129,Sport-Plage,Short cache awra,Noir,S,3,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2022-07-03,Pays-Bas
+2023-05-14,QAM-66,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-02-24,Belgique
+2024-04-27,QAM-43,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-09-10,Belgique
+2025-05-04,QAM-16,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-03-10,Belgique
+2023-05-28,LIN-117,Ensembles En Lin,Ensemble en Lin,Bleu,S,3,69.99,0,69.99,E-commerce,Visa,Belgique,2023-06-30,France
+2024-07-29,CHE-100,Chechias,Chechia,Bleu foncé,XL,1,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-02-22,Pays-Bas
+2024-07-13,QAM-11,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-07-24,Belgique
+2025-05-01,QAM-43,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-05-06,France
+2024-06-04,QAM-36,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-02-12,Belgique
+2024-11-08,QAM-15,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-04-21,France
+2024-09-22,QAM-41,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-01-31,France
+2023-02-17,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-04-27,Pays-Bas
+2025-02-03,QAM-52,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-04-05,France
+2023-11-09,QAM-9,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-06-18,Belgique
+2023-05-28,QAM-70,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-12-26,Belgique
+2023-02-07,QAM-72,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-06-18,Belgique
+2023-01-09,QAM-53,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-10-08,Belgique
+2023-02-21,CHE-104,Chechias,Chechia,Chocolat,XL,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-10-29,Belgique
+2025-04-14,QAM-31,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-04-03,Luxembourg
+2024-09-01,QAM-67,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-11-03,France
+2023-03-03,LIN-121,Ensembles En Lin,Ensemble en Lin,Bordeaux,S,3,69.99,0,69.99,E-commerce,PayPal,Belgique,2022-03-02,France
+2024-02-07,LIN-128,Ensembles En Lin,Ensemble en Lin,Beige,XL,1,69.99,0,69.99,E-commerce,PayPal,Belgique,2023-09-26,Belgique
+2025-05-18,LIN-114,Ensembles En Lin,Ensemble en Lin,Noir,M,1,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-12-10,Luxembourg
+2025-01-20,CHE-90,Chechias,Chechia,Gris clair,M,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-10-25,France
+2023-12-06,QAM-48,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-08-27,Belgique
+2025-01-04,QAM-80,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-11-13,France
+2023-04-12,CHE-100,Chechias,Chechia,Bleu foncé,XL,1,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-06-18,France
+2024-12-08,QAM-76,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-04-17,Belgique
+2024-08-20,QAM-59,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-10-07,France
+2025-06-01,LIN-116,Ensembles En Lin,Ensemble en Lin,Noir,XL,1,69.99,0,69.99,E-commerce,PayPal,Belgique,2022-08-21,France
+2024-09-10,CHE-110,Chechias,Chechia,Gris métallisé,M,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-06-08,Belgique
+2024-11-25,CHE-96,Chechias,Chechia,Noir,XL,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-12-12,Pays-Bas
+2023-02-19,QAM-72,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-12-05,Luxembourg
+2023-08-27,QAM-80,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-06-30,France
+2023-08-11,QAM-21,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-03-04,France
+2024-03-19,QAM-83,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-09-06,Belgique
+2024-12-26,QAM-65,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-02-16,France
+2024-07-11,QAM-56,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-08-02,France
+2023-09-20,CHE-101,Chechias,Chechia,Chocolat,S,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-08-27,Belgique
+2024-01-04,LIN-128,Ensembles En Lin,Ensemble en Lin,Beige,XL,3,69.99,0,69.99,E-commerce,Mastercard,Belgique,2024-12-15,France
+2024-03-09,QAM-34,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-12-16,Luxembourg
+2023-06-18,LIN-121,Ensembles En Lin,Ensemble en Lin,Bordeaux,S,1,69.99,0,69.99,E-commerce,Mastercard,Belgique,2022-04-17,France
+2023-11-06,QAM-42,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-04-10,Belgique
+2024-01-04,QAM-13,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-02-17,France
+2023-11-21,QAM-26,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-12-03,Belgique
+2024-12-01,LIN-128,Ensembles En Lin,Ensemble en Lin,Beige,XL,1,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-11-15,Belgique
+2025-03-02,QAM-74,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-03-14,Belgique
+2024-11-03,CHE-111,Chechias,Chechia,Gris métallisé,L,1,9.49,0,9.49,E-commerce,Visa,Belgique,2022-01-08,Belgique
+2024-05-18,CHE-96,Chechias,Chechia,Noir,XL,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-09-17,France
+2025-02-24,QAM-31,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-12-20,France
+2023-12-24,CHE-112,Chechias,Chechia,Gris métallisé,XL,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-10-30,Belgique
+2023-05-27,QAM-76,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-10-01,Luxembourg
+2025-02-03,QAM-1,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-02-25,Luxembourg
+2023-08-26,QAM-50,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-12-27,Luxembourg
+2024-04-11,SP-135,Sport-Plage,T-shirt technique,Noir,L,2,24.99,0,24.99,E-commerce,Visa,Belgique,2023-06-10,Belgique
+2024-06-15,LIN-118,Ensembles En Lin,Ensemble en Lin,Bleu,M,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-04-19,France
+2024-01-23,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-01-28,Pays-Bas
+2024-05-01,CHE-94,Chechias,Chechia,Noir,M,1,9.49,0,9.49,E-commerce,Visa,Belgique,2022-03-19,France
+2024-12-27,CHE-106,Chechias,Chechia,Gris foncé,M,2,9.49,0,9.49,E-commerce,Visa,Belgique,2022-12-31,Belgique
+2024-04-23,CHE-91,Chechias,Chechia,Gris clair,L,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-10-28,Belgique
+2024-07-18,CHE-109,Chechias,Chechia,Gris métallisé,S,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2023-06-10,France
+2024-08-06,LIN-118,Ensembles En Lin,Ensemble en Lin,Bleu,M,2,69.99,0,69.99,E-commerce,Mastercard,Belgique,2023-11-30,Pays-Bas
+2023-09-13,QAM-32,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-06-01,France
+2023-09-08,LIN-119,Ensembles En Lin,Ensemble en Lin,Bleu,L,3,69.99,0,69.99,E-commerce,Visa,Belgique,2024-10-27,France
+2024-11-09,SP-130,Sport-Plage,Short cache awra,Noir,M,2,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2024-10-23,Belgique
+2024-01-27,QAM-76,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-07-07,France
+2025-03-25,SP-130,Sport-Plage,Short cache awra,Noir,M,3,44.99,0,44.99,E-commerce,Mastercard,Belgique,2024-01-20,Luxembourg
+2025-05-26,CHE-89,Chechias,Chechia,Gris clair,S,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-12-29,Belgique
+2023-09-19,QAM-71,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-03-16,France
+2025-05-19,LIN-125,Ensembles En Lin,Ensemble en Lin,Beige,S,1,69.99,0,69.99,E-commerce,PayPal,Belgique,2024-01-09,Pays-Bas
+2023-03-03,QAM-78,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-11-04,Belgique
+2024-08-16,QAM-30,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2023-04-30,France
+2023-05-10,SP-130,Sport-Plage,Short cache awra,Noir,M,1,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2022-01-28,Belgique
+2024-07-17,LIN-127,Ensembles En Lin,Ensemble en Lin,Beige,L,3,69.99,0,69.99,E-commerce,Google Pay,Belgique,2023-12-15,France
+2025-01-21,QAM-67,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-11-28,France
+2023-12-03,QAM-48,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-03-27,France
+2024-04-01,QAM-81,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-05-06,France
+2025-03-22,CHE-98,Chechias,Chechia,Bleu foncé,M,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-03-22,Belgique
+2023-09-04,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-06-21,Pays-Bas
+2023-06-14,SP-129,Sport-Plage,Short cache awra,Noir,S,2,44.99,0,44.99,E-commerce,Mastercard,Belgique,2022-05-25,France
+2024-07-03,CHE-111,Chechias,Chechia,Gris métallisé,L,2,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-01-25,Belgique
+2024-03-22,CHE-102,Chechias,Chechia,Chocolat,M,1,9.49,0,9.49,E-commerce,Visa,Belgique,2022-03-08,France
+2025-06-14,QAM-69,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-08-21,France
+2024-01-22,CHE-109,Chechias,Chechia,Gris métallisé,S,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-04-19,Belgique
+2024-08-23,QAM-32,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-04-21,Luxembourg
+2024-10-22,SP-132,Sport-Plage,Short cache awra,Noir,XL,2,44.99,0,44.99,E-commerce,Visa,Belgique,2022-08-16,Pays-Bas
+2023-01-04,QAM-40,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-04-21,Belgique
+2025-02-14,QAM-20,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-02-03,Pays-Bas
+2024-09-29,QAM-62,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-09-15,Belgique
+2023-02-18,QAM-14,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-01-18,Belgique
+2023-03-07,QAM-69,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-08-18,Belgique
+2024-02-10,CHE-90,Chechias,Chechia,Gris clair,M,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-03-01,Luxembourg
+2023-07-05,LIN-127,Ensembles En Lin,Ensemble en Lin,Beige,L,3,69.99,0,69.99,E-commerce,PayPal,Belgique,2023-09-05,France
+2024-02-01,CHE-94,Chechias,Chechia,Noir,M,2,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-11-23,Belgique
+2023-02-15,QAM-21,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-11-11,Belgique
+2025-02-18,LIN-114,Ensembles En Lin,Ensemble en Lin,Noir,M,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-05-26,France
+2023-03-17,QAM-67,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-10-24,Belgique
+2023-05-07,QAM-46,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-10-04,Luxembourg
+2025-03-30,QAM-34,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-09-16,Luxembourg
+2023-04-23,LIN-114,Ensembles En Lin,Ensemble en Lin,Noir,M,2,69.99,0,69.99,E-commerce,Google Pay,Belgique,2023-05-31,France
+2025-05-02,CHE-89,Chechias,Chechia,Gris clair,S,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-04-22,Pays-Bas
+2024-09-11,QAM-3,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-12-16,Belgique
+2024-06-10,LIN-126,Ensembles En Lin,Ensemble en Lin,Beige,M,3,69.99,0,69.99,E-commerce,Google Pay,Belgique,2024-04-02,Pays-Bas
+2025-02-03,QAM-28,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-01-29,France
+2024-03-08,QAM-65,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-06-17,France
+2024-10-04,QAM-15,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-08-31,Belgique
+2024-05-12,QAM-68,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-06-27,Luxembourg
+2023-10-12,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-11-29,Belgique
+2024-02-22,QAM-73,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-08-17,Belgique
+2025-01-09,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-07-02,Belgique
+2025-02-24,QAM-56,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-07-08,France
+2025-04-12,QAM-81,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-01-06,France
+2023-02-26,QAM-83,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-04-13,France
+2023-02-14,QAM-9,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-03-16,Luxembourg
+2024-07-23,CHE-96,Chechias,Chechia,Noir,XL,2,9.49,0,9.49,E-commerce,Visa,Belgique,2022-01-04,Belgique
+2024-10-22,QAM-59,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-10-08,France
+2023-09-13,QAM-7,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-04-28,Belgique
+2023-01-09,LIN-127,Ensembles En Lin,Ensemble en Lin,Beige,L,2,69.99,0,69.99,E-commerce,Google Pay,Belgique,2024-05-30,Luxembourg
+2023-01-02,QAM-76,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-05-19,Luxembourg
+2024-09-25,QAM-84,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-08-04,France
+2023-03-15,SP-132,Sport-Plage,Short cache awra,Noir,XL,3,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2023-07-28,France
+2023-08-19,LIN-126,Ensembles En Lin,Ensemble en Lin,Beige,M,2,69.99,0,69.99,E-commerce,Mastercard,Belgique,2022-07-13,Belgique
+2024-09-05,CHE-94,Chechias,Chechia,Noir,M,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-04-26,France
+2024-01-08,LIN-113,Ensembles En Lin,Ensemble en Lin,Noir,S,3,69.99,0,69.99,E-commerce,Visa,Belgique,2023-12-16,Luxembourg
+2025-02-13,LIN-119,Ensembles En Lin,Ensemble en Lin,Bleu,L,1,69.99,0,69.99,E-commerce,Mastercard,Belgique,2024-11-15,France
+2025-06-04,CHE-99,Chechias,Chechia,Bleu foncé,L,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-06-22,Belgique
+2025-02-06,QAM-58,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-11-22,France
+2024-11-04,QAM-80,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-04-15,Luxembourg
+2024-02-21,QAM-87,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-12-25,Belgique
+2024-06-01,CHE-98,Chechias,Chechia,Bleu foncé,M,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-08-13,Belgique
+2023-01-24,SP-131,Sport-Plage,Short cache awra,Noir,L,3,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2023-06-16,France
+2025-03-15,CHE-89,Chechias,Chechia,Gris clair,S,2,9.49,0,9.49,E-commerce,Visa,Belgique,2022-04-23,Luxembourg
+2024-05-24,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-05-20,Belgique
+2024-01-01,QAM-58,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-07-13,Belgique
+2024-05-25,QAM-4,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-01-01,Belgique
+2024-11-18,QAM-27,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-03-31,Belgique
+2023-08-24,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2023-10-16,France
+2023-08-29,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-11-16,France
+2025-03-14,QAM-2,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-05-19,France
+2024-08-24,CHE-95,Chechias,Chechia,Noir,L,3,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-04-24,France
+2024-03-20,LIN-120,Ensembles En Lin,Ensemble en Lin,Bleu,XL,2,69.99,0,69.99,E-commerce,PayPal,Belgique,2022-09-16,Belgique
+2024-10-15,LIN-123,Ensembles En Lin,Ensemble en Lin,Bordeaux,L,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-06-20,Luxembourg
+2025-02-25,QAM-14,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-11-21,France
+2024-02-18,CHE-96,Chechias,Chechia,Noir,XL,3,9.49,0,9.49,E-commerce,Google Pay,Belgique,2022-01-10,Pays-Bas
+2023-06-12,QAM-55,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-09-18,France
+2024-08-13,CHE-107,Chechias,Chechia,Gris foncé,L,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-06-21,Belgique
+2023-06-20,CHE-98,Chechias,Chechia,Bleu foncé,M,3,9.49,0,9.49,E-commerce,Visa,Belgique,2024-06-16,France
+2025-03-31,CHE-110,Chechias,Chechia,Gris métallisé,M,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2022-01-13,Belgique
+2023-08-23,QAM-23,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-11-17,France
+2023-09-07,QAM-23,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-11-25,Belgique
+2023-03-09,QAM-46,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-02-24,Belgique
+2025-02-25,LIN-118,Ensembles En Lin,Ensemble en Lin,Bleu,M,1,69.99,0,69.99,E-commerce,Visa,Belgique,2024-02-16,Luxembourg
+2023-09-27,LIN-127,Ensembles En Lin,Ensemble en Lin,Beige,L,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-06-29,Belgique
+2023-11-06,QAM-37,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-11-14,Luxembourg
+2023-02-24,QAM-1,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-08-24,Belgique
+2023-06-10,QAM-22,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-11-30,France
+2025-01-16,QAM-34,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-01-11,France
+2023-02-27,QAM-53,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-08-11,France
+2024-04-22,QAM-86,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-05-28,Belgique
+2024-08-25,QAM-55,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-07-06,Belgique
+2023-12-29,QAM-18,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-05-22,Belgique
+2025-04-22,CHE-102,Chechias,Chechia,Chocolat,M,3,9.49,0,9.49,E-commerce,Visa,Belgique,2022-09-27,Belgique
+2025-04-14,QAM-66,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-03-08,France
+2024-08-29,QAM-63,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-12-26,Pays-Bas
+2023-08-20,SP-131,Sport-Plage,Short cache awra,Noir,L,1,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2022-01-05,Luxembourg
+2025-01-15,QAM-30,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-04-30,France
+2024-07-07,SP-130,Sport-Plage,Short cache awra,Noir,M,2,44.99,0,44.99,E-commerce,PayPal,Belgique,2022-03-19,France
+2025-03-18,SP-136,Sport-Plage,T-shirt technique,Noir,XL,1,24.99,0,24.99,E-commerce,Apple Pay,Belgique,2023-07-28,France
+2023-01-29,CHE-89,Chechias,Chechia,Gris clair,S,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-05-12,Belgique
+2023-03-21,QAM-32,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-08-24,Pays-Bas
+2023-10-13,QAM-81,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-12-01,France
+2024-08-30,QAM-23,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-03-30,France
+2024-05-19,QAM-80,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-02-06,Belgique
+2025-01-11,CHE-101,Chechias,Chechia,Chocolat,S,3,9.49,0,9.49,E-commerce,Google Pay,Belgique,2022-10-23,Belgique
+2023-11-25,QAM-63,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-09-08,France
+2024-08-01,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-03-10,Luxembourg
+2025-03-29,QAM-85,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-02-26,France
+2025-04-03,CHE-96,Chechias,Chechia,Noir,XL,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-11-12,Belgique
+2023-04-02,SP-130,Sport-Plage,Short cache awra,Noir,M,3,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2023-07-29,Pays-Bas
+2025-05-15,QAM-82,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-05-23,Belgique
+2024-06-14,QAM-77,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-09-19,Belgique
+2025-02-20,QAM-63,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-10-27,Belgique
+2023-07-11,SP-131,Sport-Plage,Short cache awra,Noir,L,3,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2022-05-25,France
+2023-02-23,CHE-103,Chechias,Chechia,Chocolat,L,1,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-10-03,Pays-Bas
+2023-08-05,CHE-93,Chechias,Chechia,Noir,S,2,9.49,0,9.49,E-commerce,Visa,Belgique,2023-05-18,Belgique
+2023-01-08,QAM-88,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-03-31,Luxembourg
+2023-04-19,QAM-28,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-04-14,Belgique
+2024-04-19,LIN-123,Ensembles En Lin,Ensemble en Lin,Bordeaux,L,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-11-28,Pays-Bas
+2023-10-04,QAM-72,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-07-17,France
+2023-05-01,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-08-02,Luxembourg
+2023-11-19,QAM-23,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-01-26,Belgique
+2025-05-13,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-07-08,Pays-Bas
+2023-05-21,QAM-20,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-11-04,France
+2023-12-26,CHE-99,Chechias,Chechia,Bleu foncé,L,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-04-23,Belgique
+2024-01-22,QAM-65,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-07-11,Luxembourg
+2023-10-09,QAM-80,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-02-24,Belgique
+2024-02-06,QAM-56,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-06-06,Luxembourg
+2024-11-05,QAM-74,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-07-04,Belgique
+2025-02-02,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-10-17,France
+2025-02-27,LIN-119,Ensembles En Lin,Ensemble en Lin,Bleu,L,1,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-09-23,France
+2023-10-12,LIN-117,Ensembles En Lin,Ensemble en Lin,Bleu,S,2,69.99,0,69.99,E-commerce,Visa,Belgique,2024-08-08,Belgique
+2024-10-09,QAM-63,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-10-16,Belgique
+2023-05-27,QAM-29,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-07-15,Belgique
+2024-05-14,QAM-30,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-08-21,France
+2024-11-28,QAM-17,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-06-01,Belgique
+2023-05-25,CHE-99,Chechias,Chechia,Bleu foncé,L,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-05-14,France
+2023-09-07,QAM-30,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-03-16,Belgique
+2024-11-10,CHE-99,Chechias,Chechia,Bleu foncé,L,2,9.49,0,9.49,E-commerce,Visa,Belgique,2024-03-25,Belgique
+2024-09-25,QAM-25,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-08-16,France
+2024-01-02,QAM-23,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-08-04,Belgique
+2024-11-14,QAM-53,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-08-05,Pays-Bas
+2023-04-04,QAM-62,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-01-15,Luxembourg
+2024-10-26,CHE-110,Chechias,Chechia,Gris métallisé,M,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-02-16,France
+2024-09-06,QAM-21,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-11-20,France
+2023-03-20,QAM-45,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-04-23,Luxembourg
+2023-08-22,LIN-117,Ensembles En Lin,Ensemble en Lin,Bleu,S,1,69.99,0,69.99,E-commerce,Mastercard,Belgique,2022-05-10,Belgique
+2023-10-17,SP-130,Sport-Plage,Short cache awra,Noir,M,2,44.99,0,44.99,E-commerce,PayPal,Belgique,2022-04-05,Belgique
+2025-01-17,QAM-13,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-09-19,Belgique
+2023-12-13,QAM-66,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-01-25,France
+2024-11-21,QAM-59,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-03-04,Belgique
+2024-06-08,CHE-99,Chechias,Chechia,Bleu foncé,L,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-03-10,France
+2024-06-24,QAM-83,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-01-11,Pays-Bas
+2024-01-27,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-05-21,Luxembourg
+2024-08-09,QAM-59,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-07-04,France
+2023-07-07,QAM-17,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-12-13,Belgique
+2024-10-19,CHE-92,Chechias,Chechia,Gris clair,XL,3,9.49,0,9.49,E-commerce,Google Pay,Belgique,2022-01-23,Luxembourg
+2025-05-13,QAM-28,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-03-25,France
+2024-05-23,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-12-12,Belgique
+2025-01-30,QAM-17,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-10-29,Belgique
+2024-03-23,LIN-125,Ensembles En Lin,Ensemble en Lin,Beige,S,3,69.99,0,69.99,E-commerce,Visa,Belgique,2022-12-29,Pays-Bas
+2023-05-18,QAM-24,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-01-31,France
+2025-04-19,QAM-53,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-08-06,Luxembourg
+2024-02-12,QAM-10,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-05-21,Luxembourg
+2023-09-30,CHE-102,Chechias,Chechia,Chocolat,M,2,9.49,0,9.49,E-commerce,PayPal,Belgique,2024-08-15,France
+2023-04-22,QAM-62,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-09-11,France
+2025-01-06,QAM-67,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-09-19,Belgique
+2024-08-05,QAM-74,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-04-07,Belgique
+2023-01-21,LIN-117,Ensembles En Lin,Ensemble en Lin,Bleu,S,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-11-14,Belgique
+2023-01-13,LIN-120,Ensembles En Lin,Ensemble en Lin,Bleu,XL,3,69.99,0,69.99,E-commerce,Visa,Belgique,2024-09-30,France
+2023-07-27,QAM-82,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-12-22,France
+2023-09-03,QAM-71,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-10-04,Luxembourg
+2024-04-28,QAM-33,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-06-06,Belgique
+2024-09-08,QAM-32,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-05-07,France
+2025-06-07,LIN-128,Ensembles En Lin,Ensemble en Lin,Beige,XL,1,69.99,0,69.99,E-commerce,Mastercard,Belgique,2024-10-05,France
+2025-05-17,LIN-128,Ensembles En Lin,Ensemble en Lin,Beige,XL,3,69.99,0,69.99,E-commerce,PayPal,Belgique,2023-08-27,France
+2023-05-18,CHE-112,Chechias,Chechia,Gris métallisé,XL,1,9.49,0,9.49,E-commerce,PayPal,Belgique,2024-10-10,France
+2025-02-14,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-02-20,Belgique
+2025-01-20,LIN-123,Ensembles En Lin,Ensemble en Lin,Bordeaux,L,1,69.99,0,69.99,E-commerce,Visa,Belgique,2024-11-18,France
+2025-03-08,CHE-103,Chechias,Chechia,Chocolat,L,1,9.49,0,9.49,E-commerce,Visa,Belgique,2024-02-18,Belgique
+2024-08-07,CHE-100,Chechias,Chechia,Bleu foncé,XL,1,9.49,0,9.49,E-commerce,Visa,Belgique,2024-03-24,Belgique
+2024-08-12,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-02-24,France
+2024-04-19,QAM-25,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-09-09,France
+2024-07-08,QAM-4,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-04-04,Pays-Bas
+2024-03-29,QAM-22,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-10-21,France
+2023-05-04,QAM-4,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-07-21,France
+2023-12-25,SP-130,Sport-Plage,Short cache awra,Noir,M,3,44.99,0,44.99,E-commerce,Google Pay,Belgique,2023-01-06,France
+2025-04-21,CHE-107,Chechias,Chechia,Gris foncé,L,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-07-24,France
+2024-04-25,LIN-123,Ensembles En Lin,Ensemble en Lin,Bordeaux,L,1,69.99,0,69.99,E-commerce,Visa,Belgique,2023-10-23,Belgique
+2024-07-16,QAM-84,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-08-26,Belgique
+2024-09-26,QAM-78,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-07-21,Belgique
+2023-04-06,QAM-32,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-11-09,France
+2024-11-19,QAM-75,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-04-27,Belgique
+2023-06-12,QAM-55,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-07-25,Belgique
+2023-06-17,QAM-53,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-07-29,Belgique
+2024-09-18,QAM-10,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-09-01,Pays-Bas
+2023-01-26,CHE-90,Chechias,Chechia,Gris clair,M,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-06-21,Belgique
+2023-04-19,CHE-89,Chechias,Chechia,Gris clair,S,3,9.49,0,9.49,E-commerce,Google Pay,Belgique,2022-03-16,France
+2024-06-23,CHE-108,Chechias,Chechia,Gris foncé,XL,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-01-21,Belgique
+2023-07-16,QAM-17,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-04-20,France
+2024-11-19,QAM-25,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-02-22,Belgique
+2024-08-14,LIN-121,Ensembles En Lin,Ensemble en Lin,Bordeaux,S,1,69.99,0,69.99,E-commerce,Visa,Belgique,2022-12-13,Belgique
+2023-06-15,QAM-60,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-10-02,France
+2023-10-15,QAM-24,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-07-27,Belgique
+2024-12-19,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-08-12,Belgique
+2024-10-30,QAM-41,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-05-25,Belgique
+2024-10-01,QAM-65,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-02-02,Belgique
+2024-09-12,QAM-86,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-10-26,Belgique
+2023-05-07,QAM-43,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-01-25,Belgique
+2024-07-25,CHE-89,Chechias,Chechia,Gris clair,S,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-12-11,Luxembourg
+2024-09-03,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-06-26,France
+2023-08-20,QAM-42,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-10-12,France
+2024-05-31,CHE-92,Chechias,Chechia,Gris clair,XL,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-03-04,Belgique
+2025-01-04,CHE-95,Chechias,Chechia,Noir,L,2,9.49,0,9.49,E-commerce,PayPal,Belgique,2024-09-29,Pays-Bas
+2025-02-03,QAM-88,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-10-24,Belgique
+2024-07-19,QAM-27,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-10-28,Belgique
+2024-12-22,QAM-17,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-06-05,France
+2024-10-01,CHE-101,Chechias,Chechia,Chocolat,S,2,9.49,0,9.49,E-commerce,Visa,Belgique,2024-12-08,Belgique
+2024-05-06,QAM-19,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-08-24,Belgique
+2024-05-06,LIN-115,Ensembles En Lin,Ensemble en Lin,Noir,L,1,69.99,0,69.99,E-commerce,PayPal,Belgique,2024-04-28,France
+2023-02-06,QAM-62,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-11-20,Luxembourg
+2024-04-20,QAM-22,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-05-28,France
+2024-06-29,QAM-85,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-12-08,France
+2025-02-19,QAM-7,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-04-21,Pays-Bas
+2024-07-22,QAM-25,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-12-22,Belgique
+2024-12-13,CHE-93,Chechias,Chechia,Noir,S,3,9.49,0,9.49,E-commerce,Visa,Belgique,2023-07-15,Belgique
+2023-05-20,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-11-23,Belgique
+2023-06-08,CHE-110,Chechias,Chechia,Gris métallisé,M,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2024-09-16,Belgique
+2024-07-31,QAM-45,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-08-03,Belgique
+2023-07-26,QAM-79,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-03-11,Pays-Bas
+2025-06-01,QAM-6,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-08-09,France
+2024-06-27,QAM-41,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-12-24,France
+2023-09-01,LIN-115,Ensembles En Lin,Ensemble en Lin,Noir,L,2,69.99,0,69.99,E-commerce,Mastercard,Belgique,2022-02-01,Belgique
+2023-07-21,SP-135,Sport-Plage,T-shirt technique,Noir,L,1,24.99,0,24.99,E-commerce,Visa,Belgique,2023-11-01,Luxembourg
+2023-10-04,CHE-96,Chechias,Chechia,Noir,XL,2,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-10-12,Pays-Bas
+2023-12-03,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-03-05,Luxembourg
+2025-06-10,CHE-109,Chechias,Chechia,Gris métallisé,S,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-10-13,Belgique
+2025-06-02,CHE-105,Chechias,Chechia,Gris foncé,S,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-11-08,France
+2023-07-03,CHE-104,Chechias,Chechia,Chocolat,XL,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-01-18,Belgique
+2024-01-11,LIN-120,Ensembles En Lin,Ensemble en Lin,Bleu,XL,3,69.99,0,69.99,E-commerce,Google Pay,Belgique,2024-02-08,Belgique
+2024-05-10,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-08-13,Belgique
+2023-04-28,QAM-34,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-10-06,France
+2023-08-17,QAM-56,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-07-13,France
+2023-02-24,QAM-34,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-05-17,Belgique
+2024-08-31,QAM-41,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-09-14,Belgique
+2024-01-08,QAM-77,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-04-24,France
+2024-09-11,QAM-23,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-08-04,Belgique
+2023-11-06,QAM-71,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-04-10,Belgique
+2024-11-23,QAM-15,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-07-13,Belgique
+2024-11-03,QAM-26,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-02-24,France
+2025-03-14,LIN-125,Ensembles En Lin,Ensemble en Lin,Beige,S,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-03-10,Belgique
+2023-08-15,QAM-60,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-02-17,Belgique
+2023-05-18,LIN-127,Ensembles En Lin,Ensemble en Lin,Beige,L,1,69.99,0,69.99,E-commerce,Google Pay,Belgique,2022-06-11,Belgique
+2024-09-28,QAM-88,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-03-28,Pays-Bas
+2024-04-13,QAM-52,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-02-24,France
+2023-06-08,QAM-67,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-10-28,France
+2025-05-02,QAM-17,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-04-12,Belgique
+2025-02-08,QAM-78,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-11-09,France
+2023-01-28,QAM-25,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-01-29,Belgique
+2023-09-13,SP-130,Sport-Plage,Short cache awra,Noir,M,2,44.99,0,44.99,E-commerce,Google Pay,Belgique,2023-03-19,France
+2023-05-25,QAM-64,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-11-24,Pays-Bas
+2024-12-30,QAM-75,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-12-13,France
+2025-05-17,QAM-44,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-01-31,Luxembourg
+2024-06-17,LIN-126,Ensembles En Lin,Ensemble en Lin,Beige,M,1,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-08-02,France
+2025-03-05,QAM-79,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-12-10,Belgique
+2024-10-08,LIN-122,Ensembles En Lin,Ensemble en Lin,Bordeaux,M,2,69.99,0,69.99,E-commerce,Mastercard,Belgique,2024-10-03,Pays-Bas
+2024-10-15,QAM-13,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-04-06,Belgique
+2024-01-18,LIN-119,Ensembles En Lin,Ensemble en Lin,Bleu,L,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-03-24,France
+2024-09-18,QAM-6,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-05-06,Belgique
+2025-04-07,QAM-78,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-03-28,Belgique
+2024-11-30,LIN-113,Ensembles En Lin,Ensemble en Lin,Noir,S,1,69.99,0,69.99,E-commerce,Mastercard,Belgique,2022-06-14,Belgique
+2024-05-24,CHE-97,Chechias,Chechia,Bleu foncé,S,1,9.49,0,9.49,E-commerce,Google Pay,Belgique,2022-07-01,Belgique
+2025-03-13,SP-131,Sport-Plage,Short cache awra,Noir,L,2,44.99,0,44.99,E-commerce,Mastercard,Belgique,2023-04-14,France
+2024-06-17,QAM-77,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-06-28,France
+2024-05-20,QAM-68,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-01-05,Belgique
+2024-04-15,QAM-52,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-04-02,Belgique
+2023-06-01,QAM-83,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-08-01,France
+2023-09-07,SP-130,Sport-Plage,Short cache awra,Noir,M,1,44.99,0,44.99,E-commerce,Google Pay,Belgique,2022-01-07,Belgique
+2024-06-22,QAM-75,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-11-26,France
+2024-12-02,QAM-48,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-02-14,France
+2023-09-16,QAM-58,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-05-31,Luxembourg
+2023-09-16,QAM-41,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-05-27,France
+2025-03-29,SP-130,Sport-Plage,Short cache awra,Noir,M,2,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2024-07-03,Belgique
+2024-05-08,CHE-97,Chechias,Chechia,Bleu foncé,S,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-12-01,France
+2024-09-22,QAM-79,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-03-23,Belgique
+2024-01-13,CHE-102,Chechias,Chechia,Chocolat,M,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-05-29,Belgique
+2023-03-23,QAM-69,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-03-25,France
+2024-10-23,QAM-26,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-12-10,Belgique
+2023-05-01,QAM-56,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-01-16,France
+2023-04-25,QAM-63,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-10-19,Luxembourg
+2023-12-31,QAM-26,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-12-08,Luxembourg
+2024-01-27,SP-136,Sport-Plage,T-shirt technique,Noir,XL,2,24.99,0,24.99,E-commerce,Apple Pay,Belgique,2023-04-16,Pays-Bas
+2023-04-16,QAM-87,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-01-31,Belgique
+2023-11-26,CHE-107,Chechias,Chechia,Gris foncé,L,2,9.49,0,9.49,E-commerce,Visa,Belgique,2022-09-18,Belgique
+2025-01-02,QAM-78,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-03-15,France
+2023-12-29,QAM-40,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-07-22,Belgique
+2024-06-12,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-06-23,France
+2024-04-22,LIN-128,Ensembles En Lin,Ensemble en Lin,Beige,XL,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-12-12,France
+2023-12-25,CHE-91,Chechias,Chechia,Gris clair,L,1,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-07-28,France
+2025-05-25,QAM-71,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-05-03,Belgique
+2023-12-09,LIN-113,Ensembles En Lin,Ensemble en Lin,Noir,S,1,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-08-16,Belgique
+2024-07-06,SP-135,Sport-Plage,T-shirt technique,Noir,L,2,24.99,0,24.99,E-commerce,Apple Pay,Belgique,2023-12-15,Belgique
+2023-12-08,QAM-13,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-09-24,Belgique
+2025-06-07,QAM-33,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-02-28,Luxembourg
+2023-04-15,QAM-23,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-05-08,Belgique
+2023-03-10,SP-133,Sport-Plage,T-shirt technique,Noir,S,1,24.99,0,24.99,E-commerce,Apple Pay,Belgique,2024-01-06,Belgique
+2025-01-01,QAM-2,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-12-22,Belgique
+2023-02-19,QAM-21,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-06-10,France
+2023-12-22,CHE-100,Chechias,Chechia,Bleu foncé,XL,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-06-05,France
+2024-08-26,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-07-06,Belgique
+2025-03-13,CHE-111,Chechias,Chechia,Gris métallisé,L,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-08-25,Belgique
+2023-12-15,CHE-111,Chechias,Chechia,Gris métallisé,L,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-05-09,Belgique
+2024-07-06,QAM-11,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-01-04,Belgique
+2024-11-14,CHE-102,Chechias,Chechia,Chocolat,M,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2023-10-28,France
+2024-06-15,QAM-29,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-03-18,France
+2023-05-24,QAM-19,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-01-29,Belgique
+2023-07-05,QAM-10,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-09-02,Belgique
+2023-06-13,CHE-97,Chechias,Chechia,Bleu foncé,S,2,9.49,0,9.49,E-commerce,Visa,Belgique,2024-03-15,Pays-Bas
+2023-05-11,QAM-76,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-03-16,France
+2023-04-08,QAM-73,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-04-17,France
+2024-01-13,QAM-70,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-05-08,Belgique
+2024-11-13,CHE-109,Chechias,Chechia,Gris métallisé,S,1,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-02-11,France
+2024-08-17,QAM-51,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-02-10,Belgique
+2023-11-04,QAM-18,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-07-22,France
+2024-05-21,QAM-16,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-02-03,Pays-Bas
+2024-09-15,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-11-06,Belgique
+2024-11-28,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-09-24,Belgique
+2025-05-05,CHE-103,Chechias,Chechia,Chocolat,L,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-08-11,Belgique
+2023-05-20,QAM-65,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-12-08,Belgique
+2023-03-15,QAM-9,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-01-27,Belgique
+2023-04-03,QAM-67,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-10-08,Belgique
+2023-01-30,QAM-64,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-01-01,France
+2025-01-09,QAM-20,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-06-17,France
+2024-02-08,LIN-124,Ensembles En Lin,Ensemble en Lin,Bordeaux,XL,2,69.99,0,69.99,E-commerce,Google Pay,Belgique,2023-09-02,Belgique
+2024-10-10,QAM-50,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-09-25,Pays-Bas
+2023-11-07,CHE-97,Chechias,Chechia,Bleu foncé,S,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-03-31,Belgique
+2023-01-11,QAM-25,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-03-31,Pays-Bas
+2023-12-12,QAM-60,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-06-24,Belgique
+2024-12-10,CHE-111,Chechias,Chechia,Gris métallisé,L,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-07-10,Luxembourg
+2023-03-06,QAM-72,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-09-07,France
+2024-10-21,QAM-18,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2023-12-03,Luxembourg
+2024-11-22,QAM-2,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-09-26,Pays-Bas
+2024-11-10,CHE-106,Chechias,Chechia,Gris foncé,M,3,9.49,0,9.49,E-commerce,Visa,Belgique,2022-05-10,Belgique
+2023-09-13,CHE-106,Chechias,Chechia,Gris foncé,M,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-10-16,Pays-Bas
+2024-05-20,CHE-101,Chechias,Chechia,Chocolat,S,3,9.49,0,9.49,E-commerce,Visa,Belgique,2024-03-29,Belgique
+2023-02-17,QAM-21,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-11-24,Belgique
+2024-09-21,QAM-46,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-03-04,Belgique
+2024-09-25,QAM-81,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-01-29,France
+2025-04-25,QAM-28,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-05-29,Belgique
+2025-01-13,QAM-23,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-01-11,France
+2023-12-13,QAM-4,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-11-07,France
+2023-07-10,LIN-125,Ensembles En Lin,Ensemble en Lin,Beige,S,3,69.99,0,69.99,E-commerce,PayPal,Belgique,2022-07-06,France
+2024-04-25,QAM-2,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-03-17,Luxembourg
+2024-01-03,QAM-11,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-01-14,Belgique
+2025-04-17,CHE-95,Chechias,Chechia,Noir,L,2,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-04-08,Belgique
+2023-12-12,QAM-10,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-02-24,Belgique
+2024-02-20,QAM-25,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-09-15,Belgique
+2023-05-13,QAM-3,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-10-26,Belgique
+2023-02-13,LIN-124,Ensembles En Lin,Ensemble en Lin,Bordeaux,XL,2,69.99,0,69.99,E-commerce,Mastercard,Belgique,2024-01-28,Belgique
+2025-01-22,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-02-10,Belgique
+2024-07-27,LIN-115,Ensembles En Lin,Ensemble en Lin,Noir,L,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2022-03-10,Pays-Bas
+2023-12-04,LIN-114,Ensembles En Lin,Ensemble en Lin,Noir,M,3,69.99,0,69.99,E-commerce,PayPal,Belgique,2024-01-21,France
+2024-08-02,CHE-91,Chechias,Chechia,Gris clair,L,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-08-15,Belgique
+2024-04-30,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-12-31,France
+2023-12-09,QAM-37,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-04-27,Belgique
+2023-06-24,QAM-81,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-07-20,Belgique
+2024-06-18,QAM-4,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-06-03,France
+2023-07-24,SP-136,Sport-Plage,T-shirt technique,Noir,XL,1,24.99,0,24.99,E-commerce,Apple Pay,Belgique,2022-03-14,France
+2023-03-27,CHE-111,Chechias,Chechia,Gris métallisé,L,3,9.49,0,9.49,E-commerce,Visa,Belgique,2023-12-14,Belgique
+2025-02-21,LIN-117,Ensembles En Lin,Ensemble en Lin,Bleu,S,2,69.99,0,69.99,E-commerce,Google Pay,Belgique,2022-10-23,Pays-Bas
+2024-02-15,QAM-24,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-11-06,Luxembourg
+2023-10-15,QAM-62,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-03-02,France
+2025-04-30,SP-132,Sport-Plage,Short cache awra,Noir,XL,1,44.99,0,44.99,E-commerce,Visa,Belgique,2024-07-27,France
+2024-03-06,LIN-114,Ensembles En Lin,Ensemble en Lin,Noir,M,1,69.99,0,69.99,E-commerce,Visa,Belgique,2022-02-11,France
+2025-03-24,QAM-87,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-01-25,Belgique
+2023-09-12,QAM-32,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-11-28,Belgique
+2023-10-10,QAM-13,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-05-11,Belgique
+2025-04-30,LIN-122,Ensembles En Lin,Ensemble en Lin,Bordeaux,M,2,69.99,0,69.99,E-commerce,PayPal,Belgique,2022-04-18,France
+2024-02-27,SP-131,Sport-Plage,Short cache awra,Noir,L,3,44.99,0,44.99,E-commerce,Google Pay,Belgique,2022-06-21,France
+2024-01-21,SP-130,Sport-Plage,Short cache awra,Noir,M,3,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2022-04-12,Belgique
+2023-10-28,CHE-106,Chechias,Chechia,Gris foncé,M,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-05-15,Pays-Bas
+2025-03-29,QAM-36,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-06-08,Pays-Bas
+2024-06-30,LIN-125,Ensembles En Lin,Ensemble en Lin,Beige,S,3,69.99,0,69.99,E-commerce,Google Pay,Belgique,2022-10-02,France
+2023-01-18,QAM-26,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-12-03,France
+2023-09-07,QAM-81,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-03-27,Luxembourg
+2023-06-24,QAM-67,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-08-14,Belgique
+2024-02-14,LIN-126,Ensembles En Lin,Ensemble en Lin,Beige,M,1,69.99,0,69.99,E-commerce,PayPal,Belgique,2024-11-06,France
+2024-02-10,QAM-59,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-11-26,Belgique
+2024-03-26,QAM-17,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-01-12,France
+2024-08-04,LIN-115,Ensembles En Lin,Ensemble en Lin,Noir,L,1,69.99,0,69.99,E-commerce,PayPal,Belgique,2022-08-04,Belgique
+2024-07-12,QAM-72,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-12-05,Luxembourg
+2025-01-01,QAM-78,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-10-23,Pays-Bas
+2025-06-19,SP-130,Sport-Plage,Short cache awra,Noir,M,3,44.99,0,44.99,E-commerce,Visa,Belgique,2023-01-09,Belgique
+2025-02-18,CHE-91,Chechias,Chechia,Gris clair,L,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-09-02,France
+2023-02-16,CHE-91,Chechias,Chechia,Gris clair,L,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-12-11,Pays-Bas
+2023-11-03,QAM-40,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-04-11,France
+2024-06-30,QAM-88,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-05-04,Luxembourg
+2024-03-20,QAM-27,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-02-16,France
+2024-09-08,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-02-17,Belgique
+2025-03-10,CHE-108,Chechias,Chechia,Gris foncé,XL,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-11-05,Belgique
+2023-09-18,QAM-9,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-12-12,Belgique
+2023-02-27,QAM-45,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-02-05,France
+2023-06-22,LIN-118,Ensembles En Lin,Ensemble en Lin,Bleu,M,2,69.99,0,69.99,E-commerce,PayPal,Belgique,2024-09-07,Belgique
+2024-07-20,QAM-79,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-09-07,France
+2025-01-28,QAM-88,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-01-26,France
+2023-02-05,CHE-94,Chechias,Chechia,Noir,M,1,9.49,0,9.49,E-commerce,Visa,Belgique,2022-12-01,France
+2024-05-23,CHE-106,Chechias,Chechia,Gris foncé,M,1,9.49,0,9.49,E-commerce,Visa,Belgique,2023-09-21,Luxembourg
+2024-12-16,QAM-2,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-05-17,Pays-Bas
+2023-01-14,QAM-13,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-06-01,Belgique
+2023-05-21,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-11-19,Luxembourg
+2023-11-22,CHE-104,Chechias,Chechia,Chocolat,XL,1,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-04-06,France
+2024-11-12,QAM-49,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-12-28,France
+2023-05-22,QAM-45,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-08-17,Pays-Bas
+2023-06-29,QAM-52,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-09-16,Belgique
+2023-06-03,QAM-70,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-01-07,Belgique
+2025-02-25,LIN-119,Ensembles En Lin,Ensemble en Lin,Bleu,L,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-07-23,Luxembourg
+2023-01-31,QAM-14,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-09-21,Belgique
+2025-03-25,CHE-94,Chechias,Chechia,Noir,M,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-02-06,Luxembourg
+2025-04-04,QAM-65,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-09-07,Luxembourg
+2024-05-10,QAM-23,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-09-21,Belgique
+2024-05-11,CHE-96,Chechias,Chechia,Noir,XL,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-09-12,Luxembourg
+2024-12-22,QAM-62,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-07-07,Belgique
+2024-02-08,QAM-18,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-05-11,France
+2025-04-23,QAM-58,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-03-15,France
+2025-05-12,QAM-82,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-07-24,Pays-Bas
+2023-12-02,QAM-88,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-09-12,Belgique
+2024-05-29,QAM-7,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-07-02,France
+2024-04-03,QAM-22,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-09-09,France
+2024-10-23,QAM-36,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-12-30,France
+2023-06-20,SP-133,Sport-Plage,T-shirt technique,Noir,S,2,24.99,0,24.99,E-commerce,Mastercard,Belgique,2022-02-08,France
+2025-06-10,LIN-123,Ensembles En Lin,Ensemble en Lin,Bordeaux,L,2,69.99,0,69.99,E-commerce,Mastercard,Belgique,2023-05-12,Belgique
+2024-07-04,QAM-41,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-09-08,Belgique
+2025-02-16,QAM-5,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-07-09,Belgique
+2023-11-19,QAM-43,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-12-23,Luxembourg
+2023-01-10,QAM-21,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-01-16,Belgique
+2024-02-23,LIN-114,Ensembles En Lin,Ensemble en Lin,Noir,M,3,69.99,0,69.99,E-commerce,Visa,Belgique,2023-05-08,Belgique
+2025-01-20,QAM-65,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-06-12,Pays-Bas
+2024-11-27,QAM-66,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-11-07,Belgique
+2024-08-02,QAM-33,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-01-09,Pays-Bas
+2024-04-13,QAM-87,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-06-30,France
+2025-06-10,QAM-60,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-02-18,Luxembourg
+2024-08-23,QAM-43,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-09-08,Belgique
+2023-07-18,QAM-21,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-01-29,Belgique
+2025-02-03,QAM-65,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-11-28,France
+2024-08-08,QAM-59,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-03-24,Luxembourg
+2024-12-10,QAM-65,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-01-29,France
+2023-06-03,QAM-71,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-08-15,Belgique
+2024-03-23,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-04-22,France
+2024-11-20,LIN-113,Ensembles En Lin,Ensemble en Lin,Noir,S,2,69.99,0,69.99,E-commerce,PayPal,Belgique,2022-11-14,France
+2024-09-18,SP-136,Sport-Plage,T-shirt technique,Noir,XL,2,24.99,0,24.99,E-commerce,Mastercard,Belgique,2022-09-02,France
+2023-10-18,CHE-110,Chechias,Chechia,Gris métallisé,M,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-01-18,France
+2024-02-19,QAM-2,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-11-28,Luxembourg
+2024-03-31,LIN-114,Ensembles En Lin,Ensemble en Lin,Noir,M,1,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2022-09-29,France
+2023-07-03,QAM-81,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-01-12,Belgique
+2023-05-15,QAM-7,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-09-23,France
+2023-07-05,QAM-26,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-07-14,Belgique
+2025-02-15,QAM-56,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-07-09,Belgique
+2023-08-04,QAM-24,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-12-06,Belgique
+2023-12-22,LIN-117,Ensembles En Lin,Ensemble en Lin,Bleu,S,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-01-24,Belgique
+2023-09-23,QAM-25,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-07-31,Belgique
+2023-11-11,LIN-125,Ensembles En Lin,Ensemble en Lin,Beige,S,2,69.99,0,69.99,E-commerce,Google Pay,Belgique,2022-01-03,Belgique
+2023-05-05,QAM-35,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-01-11,Luxembourg
+2024-06-26,QAM-73,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-11-20,Pays-Bas
+2023-05-24,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-05-26,Belgique
+2023-08-10,QAM-77,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-10-20,Pays-Bas
+2023-03-25,QAM-1,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-03-08,France
+2024-08-29,QAM-84,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-12-06,Belgique
+2024-04-14,QAM-86,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-08-06,Belgique
+2024-10-03,LIN-115,Ensembles En Lin,Ensemble en Lin,Noir,L,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-08-08,France
+2025-06-03,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-02-03,France
+2024-07-15,QAM-50,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-03-27,France
+2025-06-14,QAM-42,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-08-21,Belgique
+2023-12-31,QAM-24,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-07-06,Belgique
+2024-02-29,QAM-53,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-03-02,Belgique
+2024-10-22,QAM-43,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-07-27,Belgique
+2024-01-18,QAM-3,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-12-11,Belgique
+2024-06-26,QAM-33,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-03-17,Belgique
+2025-05-26,CHE-99,Chechias,Chechia,Bleu foncé,L,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-01-11,Luxembourg
+2024-11-21,QAM-54,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-12-21,Pays-Bas
+2024-08-17,QAM-32,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-08-14,Belgique
+2024-08-09,QAM-88,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-07-18,Pays-Bas
+2024-01-05,QAM-1,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-02-11,Belgique
+2024-06-11,QAM-53,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-06-03,France
+2025-03-15,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-08-14,Belgique
+2023-05-25,QAM-75,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-04-04,France
+2024-09-01,QAM-75,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-08-06,Pays-Bas
+2024-11-30,SP-133,Sport-Plage,T-shirt technique,Noir,S,3,24.99,0,24.99,E-commerce,Mastercard,Belgique,2024-07-25,France
+2024-07-15,QAM-68,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-01-23,Belgique
+2023-02-01,QAM-62,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-05-21,France
+2024-12-02,QAM-4,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-09-16,Belgique
+2025-01-13,QAM-43,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-02-23,Luxembourg
+2025-01-02,QAM-56,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-12-06,France
+2025-04-10,QAM-73,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-12-28,Belgique
+2025-06-12,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-11-20,France
+2023-09-25,CHE-108,Chechias,Chechia,Gris foncé,XL,2,9.49,0,9.49,E-commerce,Visa,Belgique,2024-11-09,France
+2023-06-17,QAM-25,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-02-23,Belgique
+2025-03-29,QAM-33,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-11-21,France
+2023-01-30,LIN-113,Ensembles En Lin,Ensemble en Lin,Noir,S,2,69.99,0,69.99,E-commerce,PayPal,Belgique,2024-04-29,Belgique
+2024-03-05,CHE-97,Chechias,Chechia,Bleu foncé,S,2,9.49,0,9.49,E-commerce,Visa,Belgique,2022-03-03,France
+2023-02-20,QAM-26,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-08-04,Luxembourg
+2024-04-20,QAM-63,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-01-03,Luxembourg
+2025-03-09,QAM-78,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-06-09,France
+2024-10-23,LIN-124,Ensembles En Lin,Ensemble en Lin,Bordeaux,XL,1,69.99,0,69.99,E-commerce,Google Pay,Belgique,2024-02-20,France
+2023-04-07,LIN-125,Ensembles En Lin,Ensemble en Lin,Beige,S,3,69.99,0,69.99,E-commerce,Visa,Belgique,2024-06-11,Belgique
+2024-06-13,CHE-106,Chechias,Chechia,Gris foncé,M,1,9.49,0,9.49,E-commerce,Visa,Belgique,2022-11-25,France
+2024-01-18,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-08-03,Belgique
+2023-06-22,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-08-09,France
+2024-12-31,QAM-66,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-09-27,Belgique
+2024-03-28,QAM-44,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-09-14,Belgique
+2023-11-10,QAM-40,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-07-09,France
+2024-10-14,SP-133,Sport-Plage,T-shirt technique,Noir,S,3,24.99,0,24.99,E-commerce,Google Pay,Belgique,2024-01-08,Belgique
+2025-03-24,QAM-61,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-06-19,France
+2023-08-11,LIN-116,Ensembles En Lin,Ensemble en Lin,Noir,XL,2,69.99,0,69.99,E-commerce,PayPal,Belgique,2023-06-05,Belgique
+2024-11-08,QAM-52,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-02-09,Belgique
+2024-10-07,SP-129,Sport-Plage,Short cache awra,Noir,S,3,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2024-08-12,France
+2024-07-09,SP-134,Sport-Plage,T-shirt technique,Noir,M,1,24.99,0,24.99,E-commerce,Google Pay,Belgique,2024-09-10,Belgique
+2023-04-05,CHE-103,Chechias,Chechia,Chocolat,L,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-09-01,Belgique
+2024-06-19,QAM-6,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-02-07,France
+2023-10-11,QAM-85,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-11-24,Belgique
+2025-03-31,QAM-3,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-07-02,Luxembourg
+2025-06-03,QAM-32,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-03-30,Belgique
+2024-09-10,CHE-102,Chechias,Chechia,Chocolat,M,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-02-06,Belgique
+2024-05-04,QAM-31,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-08-30,France
+2024-01-14,QAM-78,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-03-06,Belgique
+2023-09-04,QAM-4,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-08-30,Belgique
+2025-06-16,QAM-82,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-08-16,Belgique
+2024-10-02,LIN-127,Ensembles En Lin,Ensemble en Lin,Beige,L,1,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-11-29,Belgique
+2024-11-03,LIN-119,Ensembles En Lin,Ensemble en Lin,Bleu,L,3,69.99,0,69.99,E-commerce,Google Pay,Belgique,2022-08-12,Luxembourg
+2024-10-29,QAM-3,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-11-14,Belgique
+2024-06-12,QAM-27,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-12-15,France
+2024-07-04,QAM-83,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-04-25,Luxembourg
+2023-12-06,QAM-61,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-11-29,Belgique
+2024-02-13,SP-130,Sport-Plage,Short cache awra,Noir,M,1,44.99,0,44.99,E-commerce,Visa,Belgique,2024-11-29,Pays-Bas
+2023-10-29,QAM-28,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-02-09,Belgique
+2024-01-23,QAM-16,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-08-04,Pays-Bas
+2023-07-11,LIN-119,Ensembles En Lin,Ensemble en Lin,Bleu,L,1,69.99,0,69.99,E-commerce,Google Pay,Belgique,2022-12-02,Belgique
+2023-04-21,QAM-4,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-04-02,France
+2024-07-29,LIN-128,Ensembles En Lin,Ensemble en Lin,Beige,XL,3,69.99,0,69.99,E-commerce,Visa,Belgique,2022-12-19,France
+2024-05-15,QAM-82,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-07-25,Belgique
+2025-01-16,QAM-7,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-03-26,France
+2024-07-24,QAM-11,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-02-20,France
+2023-05-18,QAM-50,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-12-29,Belgique
+2025-02-21,CHE-89,Chechias,Chechia,Gris clair,S,2,9.49,0,9.49,E-commerce,Visa,Belgique,2023-07-11,Belgique
+2023-07-03,QAM-79,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-12-22,France
+2024-11-12,QAM-6,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-07-10,France
+2023-01-11,QAM-81,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-02-26,Pays-Bas
+2023-04-05,CHE-101,Chechias,Chechia,Chocolat,S,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-12-01,France
+2024-04-24,QAM-61,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-01-07,Pays-Bas
+2025-02-12,LIN-120,Ensembles En Lin,Ensemble en Lin,Bleu,XL,1,69.99,0,69.99,E-commerce,Mastercard,Belgique,2022-05-13,France
+2024-03-21,QAM-79,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-07-11,Belgique
+2024-06-11,CHE-94,Chechias,Chechia,Noir,M,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-04-05,Belgique
+2023-12-12,QAM-51,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-01-31,France
+2024-02-29,CHE-108,Chechias,Chechia,Gris foncé,XL,2,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-11-20,France
+2023-09-20,LIN-127,Ensembles En Lin,Ensemble en Lin,Beige,L,3,69.99,0,69.99,E-commerce,Google Pay,Belgique,2023-06-19,Belgique
+2024-08-18,QAM-55,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-03-02,Belgique
+2024-10-15,QAM-52,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-11-03,Pays-Bas
+2024-07-01,QAM-22,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-12-29,France
+2023-05-11,QAM-48,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-03-23,Belgique
+2023-02-19,QAM-33,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-12-22,France
+2025-03-08,LIN-127,Ensembles En Lin,Ensemble en Lin,Beige,L,2,69.99,0,69.99,E-commerce,Google Pay,Belgique,2023-08-12,Belgique
+2024-11-23,QAM-84,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-10-22,Belgique
+2024-10-17,QAM-84,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-12-05,Belgique
+2024-10-25,CHE-105,Chechias,Chechia,Gris foncé,S,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-01-17,Belgique
+2024-12-08,QAM-34,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-12-26,France
+2024-12-02,QAM-15,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-05-15,Belgique
+2023-03-23,LIN-118,Ensembles En Lin,Ensemble en Lin,Bleu,M,1,69.99,0,69.99,E-commerce,PayPal,Belgique,2023-12-01,Luxembourg
+2024-01-12,QAM-80,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-03-24,Luxembourg
+2023-09-28,QAM-24,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-05-05,Belgique
+2024-05-25,QAM-60,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-12-31,France
+2024-11-01,QAM-50,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-11-06,France
+2024-09-14,QAM-58,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-10-04,Luxembourg
+2023-07-20,QAM-66,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-04-12,Belgique
+2024-07-25,QAM-17,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-02-18,France
+2023-04-04,CHE-90,Chechias,Chechia,Gris clair,M,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-08-09,France
+2024-11-01,QAM-87,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-09-20,Belgique
+2024-06-18,QAM-65,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-07-26,Belgique
+2023-02-05,QAM-87,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-12-01,France
+2024-06-30,QAM-87,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-02-06,France
+2024-08-04,LIN-124,Ensembles En Lin,Ensemble en Lin,Bordeaux,XL,3,69.99,0,69.99,E-commerce,Google Pay,Belgique,2024-09-15,Belgique
+2023-10-19,QAM-49,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-10-05,France
+2023-01-06,LIN-116,Ensembles En Lin,Ensemble en Lin,Noir,XL,1,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-07-04,Belgique
+2024-10-05,QAM-79,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2023-04-29,France
+2025-02-07,QAM-82,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-01-01,Belgique
+2025-01-09,QAM-10,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-07-11,Luxembourg
+2023-06-22,QAM-59,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-11-06,Belgique
+2025-03-25,QAM-6,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-06-08,Belgique
+2025-02-12,LIN-113,Ensembles En Lin,Ensemble en Lin,Noir,S,2,69.99,0,69.99,E-commerce,Mastercard,Belgique,2024-07-06,Belgique
+2023-12-02,LIN-123,Ensembles En Lin,Ensemble en Lin,Bordeaux,L,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-02-05,Belgique
+2023-01-05,QAM-20,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-06-04,France
+2023-09-07,CHE-111,Chechias,Chechia,Gris métallisé,L,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-12-06,Belgique
+2025-04-26,QAM-78,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-01-22,Luxembourg
+2024-03-19,QAM-10,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-04-19,Belgique
+2024-11-27,LIN-116,Ensembles En Lin,Ensemble en Lin,Noir,XL,1,69.99,0,69.99,E-commerce,PayPal,Belgique,2022-07-29,Belgique
+2024-09-02,LIN-118,Ensembles En Lin,Ensemble en Lin,Bleu,M,3,69.99,0,69.99,E-commerce,PayPal,Belgique,2022-11-02,Belgique
+2023-09-27,QAM-45,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-12-05,Belgique
+2024-08-10,QAM-32,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-11-18,Belgique
+2024-03-22,LIN-123,Ensembles En Lin,Ensemble en Lin,Bordeaux,L,1,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2022-10-12,Belgique
+2024-07-28,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-12-17,France
+2023-05-29,QAM-72,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-02-02,Belgique
+2024-02-06,QAM-80,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-08-05,France
+2024-11-01,QAM-43,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2023-01-16,France
+2023-11-01,QAM-75,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-04-05,Belgique
+2023-04-13,QAM-50,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-10-27,France
+2024-07-09,CHE-90,Chechias,Chechia,Gris clair,M,1,9.49,0,9.49,E-commerce,Visa,Belgique,2022-01-29,Pays-Bas
+2024-03-02,QAM-13,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-06-25,France
+2025-02-17,QAM-60,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-11-22,France
+2024-04-08,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-05-28,Belgique
+2023-05-23,CHE-100,Chechias,Chechia,Bleu foncé,XL,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-03-20,France
+2023-11-02,QAM-48,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-08-04,France
+2023-03-26,QAM-62,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-04-04,France
+2023-06-28,QAM-28,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-07-24,Pays-Bas
+2023-03-23,QAM-81,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-01-08,Belgique
+2025-02-06,CHE-92,Chechias,Chechia,Gris clair,XL,2,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-05-31,Belgique
+2025-02-11,QAM-18,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-02-01,France
+2024-08-08,QAM-40,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-02-08,Luxembourg
+2023-03-26,QAM-83,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-06-05,Belgique
+2023-12-20,QAM-72,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-03-07,Belgique
+2025-05-30,QAM-62,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-06-06,Belgique
+2024-07-03,QAM-11,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-06-02,Belgique
+2024-04-05,QAM-71,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-08-31,France
+2024-07-09,QAM-15,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-11-11,France
+2025-05-22,QAM-24,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-04-28,Belgique
+2023-07-20,CHE-104,Chechias,Chechia,Chocolat,XL,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-01-18,Belgique
+2024-10-19,QAM-77,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-09-15,Belgique
+2024-10-27,QAM-40,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-01-21,Belgique
+2023-01-31,CHE-93,Chechias,Chechia,Noir,S,2,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-10-30,France
+2025-06-03,CHE-89,Chechias,Chechia,Gris clair,S,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-05-18,Pays-Bas
+2024-05-02,QAM-81,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-03-25,Luxembourg
+2023-09-29,CHE-102,Chechias,Chechia,Chocolat,M,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-07-24,Belgique
+2024-06-14,QAM-11,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-07-22,Luxembourg
+2023-03-10,CHE-111,Chechias,Chechia,Gris métallisé,L,1,9.49,0,9.49,E-commerce,PayPal,Belgique,2024-10-05,France
+2024-06-09,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-03-03,France
+2025-04-27,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-03-02,France
+2023-08-19,LIN-115,Ensembles En Lin,Ensemble en Lin,Noir,L,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-05-07,Belgique
+2024-10-28,QAM-8,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-07-27,Belgique
+2023-06-17,QAM-41,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-12-19,Belgique
+2023-07-23,QAM-82,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-03-06,Belgique
+2024-11-05,QAM-51,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-09-11,Belgique
+2024-06-12,QAM-19,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-06-04,France
+2023-03-22,QAM-29,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-08-14,France
+2023-01-31,QAM-32,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-11-16,France
+2023-07-31,QAM-75,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-07-18,Belgique
+2023-06-10,QAM-64,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-01-22,Pays-Bas
+2023-08-01,QAM-69,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-12-15,Pays-Bas
+2024-05-29,QAM-77,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-08-17,France
+2023-07-07,CHE-100,Chechias,Chechia,Bleu foncé,XL,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-11-24,Pays-Bas
+2023-02-01,QAM-49,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-01-13,France
+2023-07-06,QAM-57,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-06-17,Pays-Bas
+2024-08-27,QAM-51,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-07-04,Belgique
+2024-09-01,CHE-103,Chechias,Chechia,Chocolat,L,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2023-06-11,Belgique
+2025-05-03,QAM-64,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-01-04,Belgique
+2023-07-25,LIN-128,Ensembles En Lin,Ensemble en Lin,Beige,XL,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2022-07-25,Belgique
+2025-03-10,QAM-14,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-03-31,Belgique
+2023-04-10,CHE-95,Chechias,Chechia,Noir,L,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-06-05,France
+2023-04-19,QAM-20,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-10-13,France
+2023-05-26,QAM-55,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-08-13,France
+2024-09-18,QAM-5,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-12-27,Belgique
+2025-03-11,QAM-2,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-10-10,Luxembourg
+2023-09-07,SP-135,Sport-Plage,T-shirt technique,Noir,L,3,24.99,0,24.99,E-commerce,Apple Pay,Belgique,2023-05-16,France
+2024-05-11,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-04-27,Belgique
+2024-12-10,QAM-52,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-01-21,France
+2024-09-26,QAM-18,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-08-07,Belgique
+2024-04-03,LIN-120,Ensembles En Lin,Ensemble en Lin,Bleu,XL,1,69.99,0,69.99,E-commerce,Mastercard,Belgique,2023-01-30,Belgique
+2024-01-19,QAM-78,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-12-23,Pays-Bas
+2024-09-22,CHE-94,Chechias,Chechia,Noir,M,1,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-12-22,Belgique
+2024-07-19,QAM-16,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-03-13,France
+2023-07-04,LIN-120,Ensembles En Lin,Ensemble en Lin,Bleu,XL,1,69.99,0,69.99,E-commerce,Mastercard,Belgique,2022-10-01,Luxembourg
+2023-05-16,CHE-110,Chechias,Chechia,Gris métallisé,M,1,9.49,0,9.49,E-commerce,Google Pay,Belgique,2022-12-04,France
+2023-07-11,QAM-18,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-08-30,Belgique
+2025-03-17,QAM-88,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-06-15,Belgique
+2023-09-11,QAM-13,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-01-11,Belgique
+2024-07-11,SP-135,Sport-Plage,T-shirt technique,Noir,L,1,24.99,0,24.99,E-commerce,Visa,Belgique,2023-12-30,France
+2023-04-14,QAM-41,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-03-11,Belgique
+2025-06-17,CHE-90,Chechias,Chechia,Gris clair,M,2,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2022-04-12,Belgique
+2023-05-13,QAM-1,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-02-18,Pays-Bas
+2024-09-17,QAM-83,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-08-02,France
+2023-09-09,LIN-113,Ensembles En Lin,Ensemble en Lin,Noir,S,2,69.99,0,69.99,E-commerce,Mastercard,Belgique,2023-02-05,Belgique
+2023-06-25,LIN-127,Ensembles En Lin,Ensemble en Lin,Beige,L,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-08-11,France
+2024-05-20,QAM-77,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-06-07,France
+2023-11-17,SP-136,Sport-Plage,T-shirt technique,Noir,XL,3,24.99,0,24.99,E-commerce,PayPal,Belgique,2024-12-05,Belgique
+2023-01-09,CHE-103,Chechias,Chechia,Chocolat,L,1,9.49,0,9.49,E-commerce,Visa,Belgique,2023-08-15,Belgique
+2025-03-27,QAM-78,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-04-02,Luxembourg
+2023-05-09,QAM-16,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-11-04,France
+2023-12-16,QAM-24,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-12-15,France
+2023-09-19,QAM-80,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-07-24,Belgique
+2024-06-16,CHE-94,Chechias,Chechia,Noir,M,2,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-08-30,Belgique
+2023-06-09,CHE-91,Chechias,Chechia,Gris clair,L,2,9.49,0,9.49,E-commerce,PayPal,Belgique,2022-01-02,Belgique
+2024-09-14,QAM-24,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-08-13,Belgique
+2024-06-08,QAM-88,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-03-11,Belgique
+2024-11-01,QAM-62,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-08-12,Belgique
+2024-07-08,QAM-14,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-04-26,Luxembourg
+2024-05-22,CHE-89,Chechias,Chechia,Gris clair,S,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-07-06,Pays-Bas
+2025-04-03,SP-132,Sport-Plage,Short cache awra,Noir,XL,3,44.99,0,44.99,E-commerce,Apple Pay,Belgique,2022-07-13,France
+2023-05-08,LIN-117,Ensembles En Lin,Ensemble en Lin,Bleu,S,2,69.99,0,69.99,E-commerce,PayPal,Belgique,2024-05-20,Luxembourg
+2025-03-24,QAM-87,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2022-03-31,Belgique
+2023-02-10,QAM-6,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-05-02,Pays-Bas
+2023-05-29,QAM-20,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-05-23,Belgique
+2024-03-12,QAM-58,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2024-09-20,Pays-Bas
+2024-03-05,QAM-11,Qamis,Qamis Classique,Beige,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-04-16,Pays-Bas
+2024-05-04,QAM-27,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-06-05,France
+2024-03-08,CHE-98,Chechias,Chechia,Bleu foncé,M,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-03-04,Pays-Bas
+2023-09-26,QAM-71,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-11-13,France
+2025-05-31,QAM-61,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-09-27,Belgique
+2023-04-05,CHE-107,Chechias,Chechia,Gris foncé,L,3,9.49,0,9.49,E-commerce,Visa,Belgique,2022-01-09,Belgique
+2025-05-25,SP-136,Sport-Plage,T-shirt technique,Noir,XL,1,24.99,0,24.99,E-commerce,Google Pay,Belgique,2024-02-13,France
+2023-08-22,LIN-114,Ensembles En Lin,Ensemble en Lin,Noir,M,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2022-08-11,Belgique
+2024-04-10,CHE-93,Chechias,Chechia,Noir,S,1,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-07-07,France
+2023-09-19,LIN-117,Ensembles En Lin,Ensemble en Lin,Bleu,S,1,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-12-17,Pays-Bas
+2024-08-16,QAM-4,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-04-21,Belgique
+2023-05-11,SP-129,Sport-Plage,Short cache awra,Noir,S,1,44.99,0,44.99,E-commerce,Google Pay,Belgique,2022-09-08,France
+2023-06-21,QAM-56,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-01-18,Pays-Bas
+2025-05-29,SP-131,Sport-Plage,Short cache awra,Noir,L,2,44.99,0,44.99,E-commerce,PayPal,Belgique,2022-01-07,Pays-Bas
+2024-04-29,QAM-74,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2023-04-04,Pays-Bas
+2025-06-12,QAM-42,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-07-27,France
+2023-12-10,QAM-20,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-06-18,Pays-Bas
+2024-09-09,QAM-26,Qamis,Qamis Classique,Noir,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-01-22,France
+2025-01-15,CHE-90,Chechias,Chechia,Gris clair,M,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-02-14,Belgique
+2023-10-22,QAM-86,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-06-13,France
+2023-04-28,QAM-46,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-05-30,France
+2024-06-08,QAM-75,Qamis,Qamis Classique,Kaki,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-03-19,Belgique
+2023-09-10,QAM-50,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-05-23,France
+2023-09-22,QAM-59,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-01-14,France
+2023-11-11,QAM-51,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,Visa,Belgique,2024-08-28,Belgique
+2024-10-12,CHE-109,Chechias,Chechia,Gris métallisé,S,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-09-04,France
+2023-06-11,QAM-10,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-10-10,France
+2025-03-30,LIN-115,Ensembles En Lin,Ensemble en Lin,Noir,L,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2024-11-01,France
+2023-07-11,QAM-87,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-03-28,Belgique
+2025-01-10,CHE-109,Chechias,Chechia,Gris métallisé,S,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-06-27,Belgique
+2024-04-06,QAM-76,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-05-02,Belgique
+2025-03-07,CHE-98,Chechias,Chechia,Bleu foncé,M,2,9.49,0,9.49,E-commerce,Visa,Belgique,2024-01-20,Pays-Bas
+2024-12-31,QAM-39,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-11-16,Belgique
+2024-06-18,QAM-14,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-11-05,France
+2024-02-20,QAM-29,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-11-26,Belgique
+2023-04-19,QAM-51,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-10-15,Belgique
+2023-11-15,QAM-29,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-11-03,Luxembourg
+2025-01-26,LIN-120,Ensembles En Lin,Ensemble en Lin,Bleu,XL,2,69.99,0,69.99,E-commerce,Mastercard,Belgique,2024-07-02,France
+2023-07-25,QAM-80,Qamis,Qamis Classique,Gris,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-10-24,Belgique
+2023-03-20,QAM-58,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-07-03,Belgique
+2025-06-11,QAM-18,Qamis,Qamis Classique,Blanc,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-11-08,Belgique
+2023-03-13,QAM-36,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-05-22,France
+2023-04-21,CHE-104,Chechias,Chechia,Chocolat,XL,3,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-12-18,France
+2024-01-10,CHE-98,Chechias,Chechia,Bleu foncé,M,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2024-07-12,Belgique
+2024-05-23,QAM-70,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-01-25,Belgique
+2023-07-13,LIN-118,Ensembles En Lin,Ensemble en Lin,Bleu,M,1,69.99,0,69.99,E-commerce,Visa,Belgique,2022-02-04,Belgique
+2025-02-18,CHE-103,Chechias,Chechia,Chocolat,L,1,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-03-21,Pays-Bas
+2024-08-16,CHE-109,Chechias,Chechia,Gris métallisé,S,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-04-03,Pays-Bas
+2024-12-20,QAM-50,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-12-19,Belgique
+2024-02-15,CHE-98,Chechias,Chechia,Bleu foncé,M,3,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-06-21,France
+2024-03-23,QAM-36,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-05-11,Belgique
+2024-02-27,LIN-113,Ensembles En Lin,Ensemble en Lin,Noir,S,1,69.99,0,69.99,E-commerce,Google Pay,Belgique,2022-06-08,Belgique
+2024-08-07,QAM-58,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-08-14,France
+2025-03-26,QAM-41,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-01-24,Pays-Bas
+2024-05-16,CHE-101,Chechias,Chechia,Chocolat,S,2,9.49,0,9.49,E-commerce,Visa,Belgique,2023-02-08,Pays-Bas
+2024-10-24,CHE-100,Chechias,Chechia,Bleu foncé,XL,3,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2024-03-15,France
+2024-04-28,CHE-98,Chechias,Chechia,Bleu foncé,M,2,9.49,0,9.49,E-commerce,Visa,Belgique,2023-05-31,Belgique
+2024-11-20,LIN-119,Ensembles En Lin,Ensemble en Lin,Bleu,L,3,69.99,0,69.99,E-commerce,Visa,Belgique,2024-01-02,France
+2023-10-08,QAM-78,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-06-16,Belgique
+2024-01-11,CHE-90,Chechias,Chechia,Gris clair,M,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-08-13,France
+2023-06-24,QAM-40,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-06-01,Belgique
+2023-02-24,QAM-80,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-08-04,France
+2023-03-11,QAM-33,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-08-31,Belgique
+2024-02-12,LIN-126,Ensembles En Lin,Ensemble en Lin,Beige,M,3,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-02-24,Belgique
+2025-02-07,QAM-46,Qamis,Qamis Classique,Bleu ciel,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-05-15,Pays-Bas
+2025-06-06,SP-132,Sport-Plage,Short cache awra,Noir,XL,1,44.99,0,44.99,E-commerce,Mastercard,Belgique,2023-08-01,Belgique
+2024-01-03,QAM-67,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-12-01,France
+2024-05-31,CHE-96,Chechias,Chechia,Noir,XL,2,9.49,0,9.49,E-commerce,Visa,Belgique,2024-07-20,Belgique
+2024-02-06,CHE-94,Chechias,Chechia,Noir,M,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2022-10-22,Belgique
+2024-06-09,QAM-29,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-01-25,Belgique
+2023-10-25,LIN-122,Ensembles En Lin,Ensemble en Lin,Bordeaux,M,1,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2022-07-05,Belgique
+2023-10-13,QAM-61,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-09-29,Luxembourg
+2023-11-28,CHE-108,Chechias,Chechia,Gris foncé,XL,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2023-06-14,Belgique
+2024-10-30,QAM-20,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-01-21,Pays-Bas
+2023-01-29,QAM-47,Qamis,Qamis Classique,Bleu ciel,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-06-29,France
+2024-09-25,QAM-5,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-05-16,Belgique
+2025-04-19,LIN-126,Ensembles En Lin,Ensemble en Lin,Beige,M,2,69.99,0,69.99,E-commerce,Mastercard,Belgique,2024-03-04,France
+2025-01-02,QAM-40,Qamis,Qamis Classique,Chocolat,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-04-10,France
+2023-02-14,LIN-124,Ensembles En Lin,Ensemble en Lin,Bordeaux,XL,3,69.99,0,69.99,E-commerce,PayPal,Belgique,2024-01-22,France
+2023-08-26,LIN-121,Ensembles En Lin,Ensemble en Lin,Bordeaux,S,1,69.99,0,69.99,E-commerce,Visa,Belgique,2023-04-23,Belgique
+2023-01-09,CHE-93,Chechias,Chechia,Noir,S,2,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-07-28,Belgique
+2024-01-20,QAM-64,Qamis,Qamis Classique,Bleu foncé,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-06-10,Luxembourg
+2023-12-21,QAM-36,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2022-11-30,Pays-Bas
+2024-05-22,QAM-68,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-01-02,Luxembourg
+2024-01-19,QAM-3,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-01-10,Belgique
+2024-07-07,QAM-29,Qamis,Qamis Classique,Noir,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-10-20,France
+2023-08-23,QAM-33,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-04-16,France
+2023-11-18,QAM-69,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-10-01,France
+2023-03-18,CHE-107,Chechias,Chechia,Gris foncé,L,1,9.49,0,9.49,E-commerce,Apple Pay,Belgique,2023-07-07,Belgique
+2024-07-26,CHE-99,Chechias,Chechia,Bleu foncé,L,1,9.49,0,9.49,E-commerce,Visa,Belgique,2022-11-14,France
+2023-12-01,QAM-62,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2023-01-16,Belgique
+2023-01-29,QAM-48,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-01-14,Belgique
+2023-11-04,QAM-51,Qamis,Qamis Classique,Bleu ciel,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2023-05-19,Luxembourg
+2024-01-28,QAM-10,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-08-19,Belgique
+2025-04-18,QAM-70,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,PayPal,Belgique,2022-05-10,Belgique
+2023-10-15,LIN-116,Ensembles En Lin,Ensemble en Lin,Noir,XL,3,69.99,0,69.99,E-commerce,Mastercard,Belgique,2024-04-17,Belgique
+2023-07-13,QAM-65,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-06-09,Pays-Bas
+2024-05-03,LIN-118,Ensembles En Lin,Ensemble en Lin,Bleu,M,1,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2022-01-28,France
+2025-01-08,QAM-36,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-03-07,Belgique
+2023-09-08,CHE-106,Chechias,Chechia,Gris foncé,M,2,9.49,0,9.49,E-commerce,Google Pay,Belgique,2022-09-18,Luxembourg
+2024-09-06,QAM-4,Qamis,Qamis Classique,Beige,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-04-05,Luxembourg
+2023-10-29,QAM-68,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2022-10-28,Belgique
+2024-12-07,CHE-106,Chechias,Chechia,Gris foncé,M,3,9.49,0,9.49,E-commerce,Google Pay,Belgique,2024-07-07,France
+2023-01-26,QAM-70,Qamis,Qamis Classique,Kaki,Unknown,3,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-10-14,France
+2025-03-09,QAM-18,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2024-10-30,France
+2025-05-26,QAM-82,Qamis,Qamis Classique,Gris,Unknown,1,39.99,0,39.99,E-commerce,Visa,Belgique,2023-09-22,Belgique
+2025-05-17,QAM-82,Qamis,Qamis Classique,Gris,Unknown,2,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-09-27,Luxembourg
+2024-06-17,QAM-59,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2023-08-15,France
+2023-10-22,QAM-11,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Visa,Belgique,2024-04-23,Belgique
+2025-03-28,QAM-20,Qamis,Qamis Classique,Blanc,Unknown,1,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-05-11,Belgique
+2024-01-30,CHE-104,Chechias,Chechia,Chocolat,XL,2,9.49,0,9.49,E-commerce,Visa,Belgique,2022-05-13,Belgique
+2024-03-18,LIN-123,Ensembles En Lin,Ensemble en Lin,Bordeaux,L,3,69.99,0,69.99,E-commerce,Visa,Belgique,2024-08-29,Belgique
+2024-01-12,CHE-102,Chechias,Chechia,Chocolat,M,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-05-28,France
+2023-01-08,SP-129,Sport-Plage,Short cache awra,Noir,S,2,44.99,0,44.99,E-commerce,Visa,Belgique,2022-11-09,Belgique
+2023-10-23,CHE-92,Chechias,Chechia,Gris clair,XL,3,9.49,0,9.49,E-commerce,PayPal,Belgique,2023-07-30,Belgique
+2023-06-26,CHE-111,Chechias,Chechia,Gris métallisé,L,1,9.49,0,9.49,E-commerce,Mastercard,Belgique,2024-06-04,France
+2023-05-03,QAM-6,Qamis,Qamis Classique,Beige,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2023-11-18,Belgique
+2024-03-30,LIN-120,Ensembles En Lin,Ensemble en Lin,Bleu,XL,2,69.99,0,69.99,E-commerce,PayPal,Belgique,2022-06-14,Pays-Bas
+2024-03-26,QAM-44,Qamis,Qamis Classique,Chocolat,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2022-11-01,Belgique
+2023-10-18,QAM-61,Qamis,Qamis Classique,Bleu foncé,Unknown,1,39.99,0,39.99,E-commerce,Apple Pay,Belgique,2022-06-05,Belgique
+2024-01-02,LIN-121,Ensembles En Lin,Ensemble en Lin,Bordeaux,S,2,69.99,0,69.99,E-commerce,Apple Pay,Belgique,2023-09-12,Belgique
+2023-12-13,QAM-73,Qamis,Qamis Classique,Kaki,Unknown,2,39.99,0,39.99,E-commerce,PayPal,Belgique,2024-08-14,Belgique
+2025-06-12,SP-135,Sport-Plage,T-shirt technique,Noir,L,3,24.99,0,24.99,E-commerce,Google Pay,Belgique,2022-11-30,Belgique
+2025-01-10,QAM-64,Qamis,Qamis Classique,Bleu foncé,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2024-08-26,France
+2023-06-13,QAM-15,Qamis,Qamis Classique,Blanc,Unknown,2,39.99,0,39.99,E-commerce,Google Pay,Belgique,2023-05-26,Pays-Bas
+2024-09-29,QAM-38,Qamis,Qamis Classique,Chocolat,Unknown,1,39.99,0,39.99,E-commerce,Mastercard,Belgique,2024-11-09,Belgique
+2023-02-25,QAM-23,Qamis,Qamis Classique,Noir,Unknown,3,39.99,0,39.99,E-commerce,Mastercard,Belgique,2022-10-09,France
